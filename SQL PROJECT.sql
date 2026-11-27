@@ -179,3 +179,57 @@ SELECT b.book_id,
 FROM books b
 LEFT JOIN orders o ON b.book_id = o.book_id
 GROUP BY b.book_id, b.title, b.stock;
+
+-- =====================================================
+-- BUSINESS INSIGHT QUERIES (Q21-Q25)
+-- Questions a bookstore owner would ask: who drives revenue,
+-- what stock is dead, and what is about to run out.
+-- Note: stock is treated as opening stock (same assumption as Q20).
+-- =====================================================
+
+-- Q21: Do repeat customers drive revenue? (share of buyers vs. share of revenue)
+WITH cust AS (
+    SELECT customer_id, COUNT(*) AS n_orders, SUM(total_amount) AS spent
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT ROUND(100.0 * COUNT(*) FILTER (WHERE n_orders >= 2) / COUNT(*), 1)       AS repeat_customers_pct,
+       ROUND(100.0 * SUM(spent) FILTER (WHERE n_orders >= 2) / SUM(spent), 1)  AS repeat_revenue_pct
+FROM cust;
+
+-- Q22: Dead stock - titles that never sold and the inventory value tied up in them
+SELECT COUNT(*)                                   AS never_sold_titles,
+       ROUND(SUM(b.stock * b.price))              AS tied_up_value,
+       ROUND(100.0 * SUM(b.stock * b.price)
+             / (SELECT SUM(stock * price) FROM books), 1) AS pct_of_inventory_value
+FROM books b
+WHERE NOT EXISTS (SELECT 1 FROM orders o WHERE o.book_id = b.book_id);
+
+-- Q23: Restock priority - titles where ordered quantity exceeds stock
+SELECT COUNT(*)                 AS titles_over_stock,
+       SUM(sold - stock)        AS total_shortfall_units
+FROM (
+    SELECT b.book_id, b.stock, SUM(o.quantity) AS sold
+    FROM books b
+    JOIN orders o ON o.book_id = b.book_id
+    GROUP BY b.book_id, b.stock
+    HAVING SUM(o.quantity) > b.stock
+) t;
+
+-- Q24: Revenue concentration - share of revenue from the top 20% of buying customers
+WITH c AS (
+    SELECT customer_id,
+           SUM(total_amount) AS spent,
+           NTILE(5) OVER (ORDER BY SUM(total_amount) DESC) AS quintile
+    FROM orders
+    GROUP BY customer_id
+)
+SELECT COUNT(*) FILTER (WHERE quintile = 1)                                     AS top_quintile_customers,
+       ROUND(100.0 * SUM(spent) FILTER (WHERE quintile = 1) / SUM(spent), 1)    AS top_quintile_revenue_pct
+FROM c;
+
+-- Q25: Reactivation list - customers who never placed an order
+SELECT COUNT(*) AS never_ordered_customers,
+       ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM customers), 1) AS pct_of_customers
+FROM customers c
+WHERE NOT EXISTS (SELECT 1 FROM orders o WHERE o.customer_id = c.customer_id);
