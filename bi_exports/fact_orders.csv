@@ -1,1 +1,501 @@
-
+Order_ID,Customer_ID,Book_ID,Order_Date,Quantity,Total_Amount,Title,Author,Genre,Published_Year,Price,Stock,Name,Email,Phone,City,Country,Customer_Order_Count,Customer_Type
+1,84,169,2023-05-26,8,188.56,Networked tertiary approach,Margaret Moore,Biography,1963,23.57,45,Gary Blair,leonardtaylor@bowers.net,1234567974,Lake Paul,Armenia,2,Repeat
+2,137,301,2023-01-23,10,216.6,Polarized high-level installation,John Davidson,Fantasy,1975,21.66,77,Steven Miller,tsummers@yahoo.com,1234568027,North Keith,Papua New Guinea,2,Repeat
+3,216,261,2024-05-27,6,85.5,Intuitive content-based toolset,Christopher Fuentes,Science Fiction,1964,14.25,52,Phillip Allen,brianwatkins@gmail.com,1234568106,Kelseyfort,Micronesia,2,Repeat
+4,433,343,2023-11-25,7,301.21,De-engineered grid-enabled secured line,Marissa Smith,Mystery,2006,43.03,86,Corey Wells,swagner@robertson.net,1234568323,East David,Zambia,1,One-time
+5,14,431,2023-07-26,7,136.36,Synergized fresh-thinking monitoring,Christopher Dixon,Romance,1965,19.48,31,John Wood,johnsonalexander@gmail.com,1234567904,Richardsonville,New Caledonia,2,Repeat
+6,439,119,2024-10-11,5,249.4,Switchable modular moratorium,Tonya Saunders,Romance,2010,49.88,76,Shane Chang,melanie56@fleming.com,1234568329,Ramosstad,Liechtenstein,1,One-time
+7,195,467,2023-10-23,6,82.92,Function-based dedicated frame,Larry Hunt,Romance,1979,13.82,96,Dominique Turner,tracy39@smith-miller.com,1234568085,Rogersborough,Djibouti,3,Repeat
+8,32,159,2024-05-07,4,144.84,Proactive 5thgeneration middleware,Brandon Foster,Biography,1999,36.21,49,Jeffrey Shannon,nmcmillan@smith.com,1234567922,New Carlosbury,Malta,1,One-time
+9,109,407,2024-01-04,9,379.71,Mandatory executive groupware,Michelle Bell,Romance,1947,42.19,50,Jacob Kelley,qbarber@shelton.org,1234567999,Ravenberg,Macao,2,Repeat
+10,94,122,2024-07-09,4,123.0,Profound leadingedge capability,Mary French,Mystery,1992,30.75,17,Mr. David Cox,millermichael@gmail.com,1234567984,West Anthony,New Zealand,3,Repeat
+11,131,206,2023-10-16,1,38.01,Digitized executive flexibility,Lisa Lopez,Non-Fiction,1960,38.01,84,Peter Smith,wmorales@miller.com,1234568021,North Carolyn,Jersey,2,Repeat
+12,454,3,2024-06-17,2,31.5,Streamlined coherent initiative,Derrick Howard,Non-Fiction,1913,15.75,27,April Anderson,calexander@yahoo.com,1234568344,Micheleborough,Guyana,2,Repeat
+13,420,180,2023-06-08,5,125.45,Front-line discrete complexity,David Rodriguez,Science Fiction,2001,25.09,14,Andrew Murray,donaldjohnson@yahoo.com,1234568310,North Joseph,Western Sahara,3,Repeat
+14,454,319,2023-08-24,2,85.22,Distributed disintermediate groupware,Michael Mckenzie,Fantasy,1964,42.61,50,April Anderson,calexander@yahoo.com,1234568344,Micheleborough,Guyana,2,Repeat
+15,127,479,2023-01-10,6,229.62,Balanced grid-enabled architecture,Christian Morales,Fiction,2009,38.27,60,Joseph Mcmahon,sharon15@stone.com,1234568017,Lake Mary,Reunion,1,One-time
+16,412,196,2023-10-06,8,53.52,Phased context-sensitive task-force,Rachel Gibbs,Science Fiction,1934,6.69,24,Kevin Woodward,graysarah@yahoo.com,1234568302,Lake Karen,Hungary,1,One-time
+17,462,481,2023-03-20,5,52.75,Automated transitional hardware,Nicole Smith,Fiction,1980,10.55,77,James Brewer,ebrown@ewing-warner.com,1234568352,Chandlerberg,Mongolia,3,Repeat
+18,377,101,2024-08-07,4,193.96,Multi-tiered context-sensitive hub,Amanda Knight,Mystery,1923,48.49,40,Darrell Khan,anna59@hall.com,1234568267,Austinfort,Montenegro,2,Repeat
+19,496,60,2023-11-17,9,316.26,Robust eco-centric capacity,Brian Haney,Biography,1990,35.14,0,Michelle Myers,patricia02@vega-callahan.com,1234568386,Davidview,Netherlands Antilles,1,One-time
+20,195,67,2023-07-14,1,10.23,Grass-roots zero tolerance archive,Michelle Taylor,Biography,1966,10.23,25,Dominique Turner,tracy39@smith-miller.com,1234568085,Rogersborough,Djibouti,3,Repeat
+21,356,287,2024-12-05,3,120.57,Exclusive encompassing pricing structure,Cynthia Diaz,Science Fiction,1994,40.19,32,Mary Winters,evansandrew@walls.com,1234568246,Evanshaven,Bahamas,1,One-time
+22,177,427,2024-06-10,3,54.0,Ergonomic zero-defect software,Denise Mclaughlin,Fantasy,1965,18.0,46,Sarah Powell,bryan44@yahoo.com,1234568067,Kaylatown,Guyana,2,Repeat
+23,119,301,2023-08-04,3,64.98,Polarized high-level installation,John Davidson,Fantasy,1975,21.66,77,Alyssa Cuevas,hholland@gmail.com,1234568009,Lake Victormouth,Serbia,3,Repeat
+24,266,192,2023-07-10,3,145.11,Phased solution-oriented collaboration,Nicholas Roth,Romance,1930,48.37,71,Robert Myers,hmoore@ortiz.com,1234568156,Ortizfurt,Falkland Islands (Malvinas),1,One-time
+25,265,250,2023-05-25,10,126.5,Devolved incremental intranet,Jessica Lopez,Science Fiction,1918,12.65,13,Cassandra Cole,mckenziealfred@gmail.com,1234568155,Port Erinberg,Iraq,3,Repeat
+26,294,407,2023-06-11,1,42.19,Mandatory executive groupware,Michelle Bell,Romance,1947,42.19,50,Wesley Parks,dnoble@gmail.com,1234568184,Angelaside,Mali,1,One-time
+27,310,156,2024-12-03,1,31.68,Synergistic grid-enabled website,Brandon Black,Fiction,1953,31.68,34,Jennifer Lopez,daltonerika@thompson.info,1234568200,North Emily,Libyan Arab Jamahiriya,1,One-time
+28,151,423,2024-11-27,8,205.04,Implemented systematic leverage,Daisy Johnson,Romance,1943,25.63,14,Katie Lang,perezjudith@delacruz.org,1234568041,Lake Anthony,Belgium,1,One-time
+29,305,446,2023-10-05,8,275.92,Open-architected 3rdgeneration budgetary management,Carolyn Schmidt,Science Fiction,1909,34.49,7,Jeremy Pena,kmontgomery@carroll.info,1234568195,Perrytown,New Caledonia,2,Repeat
+30,438,248,2023-09-23,6,281.94,Cross-group responsive protocol,Cathy Knight,Science Fiction,2021,46.99,68,Ebony Ramos,rachel07@gmail.com,1234568328,North Stephenmouth,Tajikistan,2,Repeat
+31,386,279,2024-03-12,8,244.0,Upgradable radical adapter,Elizabeth Wilson,Non-Fiction,2008,30.5,28,Pamela Gordon,mandy28@thomas-white.com,1234568276,East Richardburgh,Yemen,3,Repeat
+32,292,313,2024-12-06,4,188.64,Profound client-driven paradigm,Nicole Olson,Non-Fiction,1997,47.16,53,Lindsey Roberts,erinkelly@robinson.com,1234568182,Lambertfort,Armenia,1,One-time
+33,478,253,2024-04-15,5,58.3,Horizontal didactic structure,Robert Rodriguez,Fiction,1961,11.66,21,Spencer Rivera,candiceclayton@gmail.com,1234568368,Joshuabury,Grenada,1,One-time
+34,463,146,2024-06-27,3,43.5,Stand-alone hybrid framework,Ethan Kennedy,Non-Fiction,1903,14.5,91,Brandon Dunn,martinezdarren@hotmail.com,1234568353,East Lindsey,Saint Kitts and Nevis,3,Repeat
+35,303,172,2023-07-08,5,184.1,Centralized homogeneous open system,Dennis Smith,Biography,1977,36.82,97,Jose Lee,russellthomas@thomas-perkins.com,1234568193,East Erikatown,Iran,1,One-time
+36,417,260,2024-01-21,9,446.31,Business-focused methodical application,Brian King,Fiction,1907,49.59,10,Melissa Frey,floresricardo@smith.org,1234568307,Erikaberg,Bahamas,1,One-time
+37,110,411,2023-12-27,4,60.12,Profit-focused solution-oriented open system,Aaron Hall Jr.,Romance,2012,15.03,83,Rachel Phillips,jgutierrez@gmail.com,1234568000,Chelseachester,Serbia,1,One-time
+38,15,466,2023-06-26,4,148.68,Multi-channeled mission-critical initiative,Michelle Hanson,Fantasy,2015,37.17,93,Vanessa Gaines,tbullock@gmail.com,1234567905,Rodriguezmouth,Wallis and Futuna,2,Repeat
+39,488,422,2024-08-03,8,367.28,Grass-roots systematic moderator,Joyce Patton,Fantasy,1919,45.91,39,Gerald Miranda,gregsmith@hotmail.com,1234568378,North Brian,Heard Island and McDonald Islands,1,One-time
+40,120,450,2024-07-03,2,91.5,Reactive high-level framework,Miguel Smith,Non-Fiction,1935,45.75,18,Rita Wallace,catherinehayes@hotmail.com,1234568010,Lake Eric,Zimbabwe,2,Repeat
+41,418,147,2024-05-05,8,361.6,Innovative empowering concept,Brad Vasquez,Science Fiction,1964,45.2,74,Kiara Blankenship MD,grahamvictor@sutton.com,1234568308,Brandimouth,Belarus,3,Repeat
+42,415,70,2023-09-19,3,70.35,Customer-focused context-sensitive process improvement,Mary Warren,Science Fiction,2021,23.45,19,James Ramirez,robert54@hall.com,1234568305,Maxwelltown,Canada,3,Repeat
+43,199,305,2024-03-25,7,221.62,Down-sized bandwidth-monitored open system,Susan Robbins,Fantasy,1999,31.66,27,Anthony Simmons,brittanyellis@davis-scott.com,1234568089,East Sandra,Micronesia,2,Repeat
+44,234,460,2024-07-24,5,179.4,Optimized human-resource forecast,Rachel Travis,Romance,1900,35.88,39,Mr. Jamie Rosario,kimberlyjones@moore.info,1234568124,Nicoleshire,Djibouti,1,One-time
+45,470,67,2024-11-16,4,40.92,Grass-roots zero tolerance archive,Michelle Taylor,Biography,1966,10.23,25,Mary Vasquez DDS,kmullins@crawford.com,1234568360,Lake Melissa,Turkey,2,Repeat
+46,319,442,2023-12-08,1,48.48,Enhanced grid-enabled budgetary management,Betty Cross,Non-Fiction,1993,48.48,93,Christine Lewis,natalieconrad@hotmail.com,1234568209,Port Justin,Bahrain,1,One-time
+47,6,360,2024-07-23,3,148.02,Profound tertiary encoding,Jennifer Jones,Non-Fiction,2020,49.34,73,Stephen Vasquez,ricemiguel@yahoo.com,1234567896,Hamiltonstad,Rwanda,2,Repeat
+48,458,477,2024-02-25,5,138.55,Distributed cohesive approach,Chris Brown,Romance,2019,27.71,17,Yvonne Martin,alyssanash@perez-luna.net,1234568348,West Amanda,Cuba,2,Repeat
+49,322,336,2024-08-14,7,168.56,Organized high-level algorithm,Grace Waller,Fantasy,2006,24.08,26,William Cameron,lharrell@mcintyre.com,1234568212,Sanchezport,Mexico,3,Repeat
+50,474,88,2024-04-06,1,40.22,Robust tangible hardware,Paul Miles,Non-Fiction,1999,40.22,32,Anthony Young,rogersbill@gmail.com,1234568364,East Chelsea,Cook Islands,5,Repeat
+51,155,491,2024-09-01,5,74.35,Pre-emptive intangible adapter,Michael Hill,Fantasy,1910,14.87,2,James Stuart,staceycohen@chen.com,1234568045,South Mariaside,Turks and Caicos Islands,2,Repeat
+52,173,161,2024-05-20,7,151.2,Focused high-level strategy,Stephanie Sloan,Fantasy,1963,21.6,11,Victoria Dixon,caseytina@yahoo.com,1234568063,Annhaven,French Polynesia,2,Repeat
+53,160,242,2024-01-02,3,101.37,Business-focused responsive parallelism,Amy Reyes,Mystery,1954,33.79,38,Robert Brooks,johnnygriffith@gmail.com,1234568050,Lake Sarahside,Finland,2,Repeat
+54,446,393,2024-09-01,3,132.0,Triple-buffered multimedia access,Nathan Ashley,Fantasy,1987,44.0,44,Michael Park,gjacobs@gmail.com,1234568336,East Robert,Zimbabwe,1,One-time
+55,18,281,2024-01-11,7,114.38,Fundamental object-oriented productivity,Robert Hatfield,Mystery,1931,16.34,83,David Watson,laurenlawson@alvarez-mcfarland.com,1234567908,New Josephtown,Equatorial Guinea,1,One-time
+56,76,333,2024-11-06,5,138.8,Advanced responsive extranet,Mark Chavez DDS,Fantasy,1959,27.76,29,Kim Wang,jonesdylan@gmail.com,1234567966,Janicemouth,Turkey,1,One-time
+57,24,34,2024-12-02,2,32.98,Stand-alone multimedia throughput,Jason Jefferson,Fantasy,1939,16.49,43,Christina Mitchell,justin67@yahoo.com,1234567914,Bridgestown,Trinidad and Tobago,2,Repeat
+58,329,369,2024-12-02,7,158.55,Diverse responsive focus group,Ashley Chavez,Biography,1966,22.65,100,Miguel Jacobs,morgangeorge@buck.com,1234568219,Marshallbury,Estonia,3,Repeat
+59,225,188,2023-02-11,7,140.98,Switchable value-added conglomeration,Clinton Mcintyre MD,Science Fiction,2014,20.14,73,Christopher Mccullough,kcarlson@yahoo.com,1234568115,Port Amandahaven,Jersey,2,Repeat
+60,404,49,2023-04-26,9,445.5,Robust attitude-oriented attitude,Zachary Hayes,Biography,1955,49.5,15,Lisa Duran,christina28@espinoza.com,1234568294,Lake Tyler,Korea,1,One-time
+61,405,361,2024-07-02,5,198.75,Optional object-oriented pricing structure,Jenna Johnson,Romance,1957,39.75,71,Julie Smith,knightmonica@krueger-hamilton.biz,1234568295,Freemanland,Vanuatu,4,Repeat
+62,364,324,2024-04-06,5,230.4,Diverse dynamic contingency,James Duran,Fiction,1993,46.08,23,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+63,16,469,2024-04-13,9,209.25,Automated 5thgeneration customer loyalty,Kimberly Shannon,Fantasy,1967,23.25,92,Stacey Flores,jackjackson@hotmail.com,1234567906,East Michaelfurt,Saint Helena,3,Repeat
+64,348,160,2024-07-19,10,344.8,Digitized cohesive emulation,Jared Cortez,Science Fiction,1924,34.48,65,Matthew Gardner,wayne40@wilkerson.com,1234568238,Gentryfort,Mozambique,2,Repeat
+65,54,198,2023-05-06,9,201.42,Persevering tertiary product,Michael Lee,Biography,1917,22.38,80,Rachel Jones,bmedina@hotmail.com,1234567944,Brendafurt,Central African Republic,2,Repeat
+66,180,323,2023-09-08,8,286.64,Balanced dynamic project,Kelly Hopkins,Biography,1976,35.83,2,Robert Pearson,jamie14@yahoo.com,1234568070,New Robertoshire,Niger,1,One-time
+67,260,129,2023-04-20,9,366.66,Decentralized multi-tasking data-warehouse,Dr. Kelly Armstrong,Romance,1959,40.74,29,Kathryn Fitzgerald,jenniferodom@gmail.com,1234568150,West Maria,Swaziland,2,Repeat
+68,246,319,2023-03-21,10,426.1,Distributed disintermediate groupware,Michael Mckenzie,Fantasy,1964,42.61,50,Jeffery Lewis,marytorres@wolfe.biz,1234568136,Angelastad,Dominican Republic,1,One-time
+69,261,109,2024-03-23,4,34.16,Operative foreground project,Valerie Mcfarland,Fantasy,1970,8.54,60,David Donovan,dguzman@hall-gentry.com,1234568151,West Justin,Slovakia (Slovak Republic),1,One-time
+70,49,447,2023-05-29,6,217.5,Enterprise-wide empowering circuit,Steven Hutchinson,Mystery,1906,36.25,9,Anne Dean,katrinaedwards@anderson.org,1234567939,Jonathanberg,Heard Island and McDonald Islands,1,One-time
+71,500,438,2024-06-11,8,267.12,Synchronized mission-critical process improvement,Samantha Stewart,Science Fiction,1913,33.39,82,James York,maydavid@maldonado.org,1234568390,Port Angela,Moldova,2,Repeat
+72,290,5,2024-10-19,1,10.95,Adaptive 5thgeneration encoding,Juan Miller,Fantasy,1956,10.95,16,Sarah Cameron,egonzalez@bell.com,1234568180,West Blake,Guyana,3,Repeat
+73,411,81,2023-10-07,1,44.19,Team-oriented logistical analyzer,Scott Gentry,Science Fiction,2010,44.19,13,Christopher Rogers,mallory64@yahoo.com,1234568301,Lake Aaronstad,Micronesia,1,One-time
+74,461,132,2023-04-08,10,204.6,Multi-lateral methodical implementation,Lauren Moore,Fantasy,1907,20.46,53,Crystal Pierce,webbteresa@gutierrez-garcia.com,1234568351,Port Davidhaven,Denmark,3,Repeat
+75,291,375,2023-11-30,5,170.75,Fully-configurable disintermediate solution,Cynthia Jones,Mystery,1993,34.15,55,Jennifer Crosby,fmiller@yahoo.com,1234568181,Alanton,Russian Federation,2,Repeat
+76,470,466,2024-09-02,10,371.7,Multi-channeled mission-critical initiative,Michelle Hanson,Fantasy,2015,37.17,93,Mary Vasquez DDS,kmullins@crawford.com,1234568360,Lake Melissa,Turkey,2,Repeat
+77,497,242,2024-03-20,7,236.53,Business-focused responsive parallelism,Amy Reyes,Mystery,1954,33.79,38,Shane Klein,murphytheodore@rodriguez-lopez.biz,1234568387,West Billymouth,Cote d'Ivoire,2,Repeat
+78,44,196,2024-07-23,5,33.45,Phased context-sensitive task-force,Rachel Gibbs,Science Fiction,1934,6.69,24,Alexis Gallegos,craig42@smith-carroll.com,1234567934,Conniefort,Lesotho,1,One-time
+79,134,28,2023-10-06,2,75.02,Expanded analyzing portal,Lisa Coffey,Fiction,1941,37.51,79,Nichole Velez,brenda93@gmail.com,1234568024,Keithberg,Uruguay,2,Repeat
+80,265,17,2023-06-04,8,42.96,Reduced secondary core,Benjamin Peters,Fantasy,1966,5.37,45,Cassandra Cole,mckenziealfred@gmail.com,1234568155,Port Erinberg,Iraq,3,Repeat
+81,383,325,2024-02-13,5,202.0,Proactive secondary help-desk,William Drake,Romance,1981,40.4,50,Tiffany Roth,jbowen@gmail.com,1234568273,South Deborah,Saint Martin,1,One-time
+82,413,387,2023-03-08,5,237.1,Grass-roots disintermediate analyzer,Amber Davis,Non-Fiction,1979,47.42,6,Steven Brown,katherine84@hodges.com,1234568303,Elliottfort,Cameroon,1,One-time
+83,457,335,2024-01-16,8,378.32,Adaptive bi-directional implementation,Alexandra Cox,Romance,1938,47.29,23,Kim Turner,jennifer45@weiss-perry.com,1234568347,South Rachelview,Cambodia,4,Repeat
+84,280,49,2024-07-05,6,297.0,Robust attitude-oriented attitude,Zachary Hayes,Biography,1955,49.5,15,Robert Perkins,drangel@gmail.com,1234568170,New Ronaldbury,Greenland,2,Repeat
+85,75,31,2023-03-14,9,191.07,Implemented encompassing conglomeration,Melissa Taylor,Fiction,2010,21.23,44,Carla Webb,jennifer35@mann.biz,1234567965,Jasonmouth,Gabon,2,Repeat
+86,361,441,2024-04-28,3,122.16,Streamlined 6thgeneration collaboration,Susan Reeves,Science Fiction,2013,40.72,65,Joseph Davis,hendricksaustin@gmail.com,1234568251,Carolyntown,Panama,2,Repeat
+87,167,435,2024-07-11,2,55.52,Inverse grid-enabled attitude,Kara Schwartz,Fantasy,1939,27.76,10,Justin Spencer,michaelsnyder@gmail.com,1234568057,Christopherchester,South Africa,3,Repeat
+88,126,262,2023-04-16,5,105.1,Team-oriented content-based adapter,Dr. Kimberly Stevenson DVM,Biography,1979,21.02,86,Bonnie Mcdonald,david81@shelton.com,1234568016,South Dianafurt,Myanmar,1,One-time
+89,305,113,2024-08-06,2,12.76,Versatile value-added structure,Jackson Hill,Science Fiction,1936,6.38,76,Jeremy Pena,kmontgomery@carroll.info,1234568195,Perrytown,New Caledonia,2,Repeat
+90,457,137,2023-12-23,6,157.98,Networked contextually-based encryption,Leslie Montoya,Biography,1942,26.33,1,Kim Turner,jennifer45@weiss-perry.com,1234568347,South Rachelview,Cambodia,4,Repeat
+91,226,142,2024-10-13,10,489.6,Multi-tiered responsive parallelism,Amanda Wilson,Fiction,1940,48.96,11,Kevin Collins,smithclinton@goodman-jackson.com,1234568116,Thomaschester,San Marino,2,Repeat
+92,329,325,2023-02-24,5,202.0,Proactive secondary help-desk,William Drake,Romance,1981,40.4,50,Miguel Jacobs,morgangeorge@buck.com,1234568219,Marshallbury,Estonia,3,Repeat
+93,366,427,2024-10-23,3,54.0,Ergonomic zero-defect software,Denise Mclaughlin,Fantasy,1965,18.0,46,Kurt Greer,burkekathryn@hotmail.com,1234568256,East Stephaniefort,India,1,One-time
+94,136,88,2024-07-06,6,241.32,Robust tangible hardware,Paul Miles,Non-Fiction,1999,40.22,32,Samantha Callahan,billysmith@yahoo.com,1234568026,Popeberg,Anguilla,2,Repeat
+95,447,426,2023-10-26,1,32.82,Triple-buffered upward-trending artificial intelligence,John Shannon,Biography,2021,32.82,98,Emily Wilkerson,jchaney@yahoo.com,1234568337,Parkerside,Zimbabwe,1,One-time
+96,456,336,2023-08-09,8,192.64,Organized high-level algorithm,Grace Waller,Fantasy,2006,24.08,26,Stacy Mendoza,mccarthycathy@gmail.com,1234568346,Pamelaland,New Zealand,1,One-time
+97,408,221,2023-07-15,10,248.1,Re-engineered solution-oriented extranet,Robert Castaneda,Biography,1988,24.81,2,Crystal Miller,jose68@vasquez.org,1234568298,Sheltonton,Cuba,1,One-time
+98,429,352,2023-12-15,1,6.01,Intuitive intermediate paradigm,Scott Bowman MD,Science Fiction,1927,6.01,97,Rhonda Norton,crystalnoble@gmail.com,1234568319,South Timothy,Tajikistan,3,Repeat
+99,166,250,2023-04-20,3,37.95,Devolved incremental intranet,Jessica Lopez,Science Fiction,1918,12.65,13,John Delacruz,dhurley@walsh.biz,1234568056,Port Timothy,Monaco,3,Repeat
+100,207,63,2023-07-14,1,22.38,Polarized heuristic database,Franklin Mack,Fiction,1989,22.38,56,Sarah Williams,dorseymichael@garcia-smith.com,1234568097,Barbarahaven,United Kingdom,2,Repeat
+101,154,344,2023-01-09,1,39.63,Optimized holistic approach,Brittney Brown,Romance,1990,39.63,27,Kristin Montoya,petersonvictoria@hawkins.org,1234568044,Port Theresa,Guernsey,2,Repeat
+102,295,300,2023-05-10,9,241.83,Integrated fresh-thinking toolset,Joseph Jensen,Non-Fiction,1962,26.87,77,Paul Morales,qsmith@hotmail.com,1234568185,Gonzalestown,Vietnam,3,Repeat
+103,103,21,2024-02-07,3,141.39,Down-sized static interface,Todd Brown,Biography,1925,47.13,87,Ashley Castro,watsonmolly@yahoo.com,1234567993,Leeport,Swaziland,2,Repeat
+104,182,316,2024-01-18,9,79.29,Multi-tiered client-server methodology,Rebecca Chavez,Fantasy,1992,8.81,74,Randy Oliver,robbinsmicheal@cox.com,1234568072,Adrianafort,Sudan,1,One-time
+105,125,306,2022-12-20,2,87.84,Phased didactic product,Elizabeth Koch,Biography,1988,43.92,56,Rebecca Perez,udavis@patton.com,1234568015,Michelleview,Sri Lanka,2,Repeat
+106,334,449,2023-10-07,3,120.51,Universal homogeneous adapter,Gina Lopez,Romance,1966,40.17,1,Amy Hahn,wangjason@gmail.com,1234568224,North Tannerville,Serbia,1,One-time
+107,10,330,2024-10-20,6,192.12,Assimilated user-facing approach,Roy Wolf,Biography,1990,32.02,25,Ronald Osborn,staciekelley@heath.com,1234567900,Lake Benjamin,Cameroon,1,One-time
+108,281,430,2024-05-25,6,71.4,Quality-focused methodical matrix,Dennis Hernandez,Mystery,1922,11.9,76,Jennifer Booker,idiaz@hotmail.com,1234568171,Katietown,Malawi,2,Repeat
+109,486,368,2024-11-19,2,89.2,Stand-alone logistical installation,Elizabeth Williams,Biography,1913,44.6,97,Melanie Kelly,eric02@johnson.com,1234568376,East Karenmouth,Ukraine,2,Repeat
+110,7,16,2023-04-30,1,10.07,Vision-oriented tangible project,Christopher Price,Mystery,1941,10.07,8,Susan Hicks,jeffrey91@yahoo.com,1234567897,East Rebecca,Montenegro,1,One-time
+111,174,450,2024-08-25,7,320.25,Reactive high-level framework,Miguel Smith,Non-Fiction,1935,45.75,18,Jonathon Strickland,ryan10@yahoo.com,1234568064,Bakerton,Dominica,4,Repeat
+112,309,403,2022-12-28,2,30.02,Persevering incremental strategy,David Miller,Fiction,1928,15.01,82,Scott Lee,talexander@hotmail.com,1234568199,East Tracystad,United States Minor Outlying Islands,1,One-time
+113,80,255,2024-02-18,3,73.53,Switchable impactful superstructure,Amber Wells,Science Fiction,1906,24.51,24,Joy Fisher,kentchristian@gmail.com,1234567970,West Rogerview,Tuvalu,1,One-time
+114,362,210,2024-02-24,3,122.79,Centralized 6thgeneration model,Yolanda Mclean,Science Fiction,1971,40.93,51,Darren Taylor,davisrebecca@webb.org,1234568252,Lake Kristen,Guinea,1,One-time
+115,321,136,2024-09-23,8,79.12,Stand-alone intangible installation,Morgan Mata,Romance,2012,9.89,84,Charlene Arroyo,edowns@holmes-adams.org,1234568211,Wilsonstad,Slovenia,2,Repeat
+116,280,447,2024-02-27,5,181.25,Enterprise-wide empowering circuit,Steven Hutchinson,Mystery,1906,36.25,9,Robert Perkins,drangel@gmail.com,1234568170,New Ronaldbury,Greenland,2,Repeat
+117,385,52,2023-01-24,7,115.71,Triple-buffered neutral adapter,Kristi Phillips,Science Fiction,2003,16.53,85,Kenneth Cohen,jacquelinelee@yahoo.com,1234568275,Robinmouth,Burundi,3,Repeat
+118,37,189,2023-01-14,3,40.95,Grass-roots eco-centric task-force,Brandon Munoz,Mystery,1989,13.65,88,Ryan Lara,benjamin38@thompson-adams.net,1234567927,Port Jameschester,Chad,2,Repeat
+119,328,148,2023-09-24,3,36.75,Upgradable contextually-based hierarchy,Jared Reyes,Fantasy,1941,12.25,97,Russell Thompson,moorewilliam@hughes.biz,1234568218,Hallshire,Holy See (Vatican City State),3,Repeat
+120,101,338,2023-01-14,1,10.17,Seamless analyzing encoding,Kevin Garcia,Mystery,1949,10.17,61,Brooke Kline,shirleythomas@allen-skinner.net,1234567991,New James,Georgia,1,One-time
+121,27,63,2024-03-28,6,134.28,Polarized heuristic database,Franklin Mack,Fiction,1989,22.38,56,Debbie Sampson,collin21@hotmail.com,1234567917,Christopherburgh,Bahamas,1,One-time
+122,136,56,2023-02-19,6,47.22,Integrated intermediate Internet solution,Stacy Cabrera,Mystery,1976,7.87,67,Samantha Callahan,billysmith@yahoo.com,1234568026,Popeberg,Anguilla,2,Repeat
+123,495,437,2024-03-10,5,221.45,Customizable directional matrices,Alyssa Lopez,Fiction,1960,44.29,7,Patrick Rivera,donaldmadden@hotmail.com,1234568385,Lake Elizabethborough,Comoros,2,Repeat
+124,272,122,2024-05-17,10,307.5,Profound leadingedge capability,Mary French,Mystery,1992,30.75,17,Carl Smith,davidandrade@gmail.com,1234568162,Lake Samantha,Algeria,3,Repeat
+125,196,43,2024-06-05,4,189.56,Function-based zero-defect initiative,Daniel Nunez,Romance,1952,47.39,61,Sean Brooks,james06@yahoo.com,1234568086,Phillipsbury,Cyprus,1,One-time
+126,88,492,2023-12-08,2,88.14,Implemented next generation open architecture,Marcus Spencer,Science Fiction,1984,44.07,76,Gregory Joseph,kimangela@yahoo.com,1234567978,Fletcherview,Algeria,1,One-time
+127,267,295,2024-08-24,7,200.62,Persistent disintermediate artificial intelligence,Todd Davis,Non-Fiction,1977,28.66,65,Timothy Simon,april69@vazquez.com,1234568157,New Jennifer,Algeria,1,One-time
+128,197,345,2024-09-17,6,155.34,Function-based disintermediate intranet,Michael Johnson,Science Fiction,1920,25.89,78,Patrick Henderson,ivelasquez@best-carey.com,1234568087,East Amandaport,Lao People's Democratic Republic,1,One-time
+129,364,388,2023-08-02,1,26.62,Distributed transitional solution,Marilyn Camacho,Science Fiction,1917,26.62,5,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+130,420,17,2023-05-13,1,5.37,Reduced secondary core,Benjamin Peters,Fantasy,1966,5.37,45,Andrew Murray,donaldjohnson@yahoo.com,1234568310,North Joseph,Western Sahara,3,Repeat
+131,16,1,2024-05-27,3,64.02,Configurable modular throughput,Joseph Crane,Biography,1949,21.34,100,Stacey Flores,jackjackson@hotmail.com,1234567906,East Michaelfurt,Saint Helena,3,Repeat
+132,469,333,2023-11-22,7,194.32,Advanced responsive extranet,Mark Chavez DDS,Fantasy,1959,27.76,29,Kimberly Vega,psmith@yahoo.com,1234568359,Daniellestad,Svalbard & Jan Mayen Islands,1,One-time
+133,232,458,2023-03-13,4,149.12,Cross-group analyzing matrix,Nancy Griffith,Fiction,1914,37.28,53,Kelli Bishop,xmiller@gmail.com,1234568122,Port Jasonview,Jersey,2,Repeat
+134,94,222,2023-04-02,7,207.13,Virtual fault-tolerant model,Scott Wells,Science Fiction,1928,29.59,75,Mr. David Cox,millermichael@gmail.com,1234567984,West Anthony,New Zealand,3,Repeat
+135,174,99,2024-01-24,10,469.3,Optimized heuristic challenge,Tracy Hendrix,Science Fiction,1962,46.93,26,Jonathon Strickland,ryan10@yahoo.com,1234568064,Bakerton,Dominica,4,Repeat
+136,165,70,2023-12-31,4,93.8,Customer-focused context-sensitive process improvement,Mary Warren,Science Fiction,2021,23.45,19,John Clark,wcunningham@gmail.com,1234568055,New Michael,Svalbard & Jan Mayen Islands,2,Repeat
+137,474,471,2023-11-25,8,363.04,Cross-platform next generation website,Anna Roberts,Romance,1929,45.38,37,Anthony Young,rogersbill@gmail.com,1234568364,East Chelsea,Cook Islands,5,Repeat
+138,59,362,2023-12-02,3,88.29,Profit-focused multimedia throughput,Andrea Lucas,Fiction,1933,29.43,64,Andrew Collins,msanchez@king.net,1234567949,West Sheri,Guatemala,3,Repeat
+139,189,26,2024-05-31,9,189.45,Multi-channeled multi-tasking capability,Patricia Buck,Science Fiction,1964,21.05,41,Jason Bell,williambrown@hotmail.com,1234568079,Taylorfurt,Somalia,2,Repeat
+140,295,164,2022-12-13,1,41.83,Expanded scalable time-frame,Ashley Mason,Non-Fiction,2013,41.83,4,Paul Morales,qsmith@hotmail.com,1234568185,Gonzalestown,Vietnam,3,Repeat
+141,107,352,2023-05-05,10,60.1,Intuitive intermediate paradigm,Scott Bowman MD,Science Fiction,1927,6.01,97,Amy Hunt,emilybecker@perkins.com,1234567997,Ericborough,Aruba,4,Repeat
+142,107,434,2024-04-08,2,91.16,Monitored value-added focus group,Mary Pollard,Science Fiction,1942,45.58,4,Amy Hunt,emilybecker@perkins.com,1234567997,Ericborough,Aruba,4,Repeat
+143,443,201,2023-10-04,7,260.75,Secured 24/7 groupware,Alexander Smith,Non-Fiction,1915,37.25,11,Vincent Cummings,daviskyle@hotmail.com,1234568333,Stacymouth,Monaco,1,One-time
+144,432,179,2024-11-10,2,96.42,Innovative didactic capacity,Matthew Vazquez,Science Fiction,2009,48.21,66,Ruth Mckay,patricia65@yahoo.com,1234568322,Cochranshire,Jordan,1,One-time
+145,340,477,2024-09-10,8,221.68,Distributed cohesive approach,Chris Brown,Romance,2019,27.71,17,Ryan Howard,psmith@adams.com,1234568230,New Taylorstad,Myanmar,1,One-time
+146,394,404,2024-04-07,4,62.6,Face-to-face multi-tasking Internet solution,Kevin Pittman,Mystery,1915,15.65,69,David Hale,ledwards@hotmail.com,1234568284,Richardburgh,Greece,1,One-time
+147,277,285,2024-10-08,5,138.25,Devolved secondary function,Sheila Nelson,Science Fiction,1914,27.65,34,David Collins,nicholasdean@foster-hall.org,1234568167,South Victoriaport,Liechtenstein,2,Repeat
+148,333,429,2024-06-16,1,42.58,Cross-platform 24hour artificial intelligence,Dawn Coleman,Romance,2002,42.58,95,Valerie Miller,heather99@mccullough.com,1234568223,North Rodney,Papua New Guinea,1,One-time
+149,39,56,2024-11-28,4,31.48,Integrated intermediate Internet solution,Stacy Cabrera,Mystery,1976,7.87,67,Tonya Arnold,aprice@hotmail.com,1234567929,Nelsonmouth,Japan,1,One-time
+150,389,135,2024-01-01,10,151.3,Customizable bi-directional focus group,Kristin Farley,Mystery,2001,15.13,83,Allison Hawkins,lnash@bates-greene.com,1234568279,Lake Patrick,Bhutan,1,One-time
+151,361,288,2024-08-27,7,195.37,Re-contextualized real-time Graphic Interface,Erica Parker,Science Fiction,1908,27.91,9,Joseph Davis,hendricksaustin@gmail.com,1234568251,Carolyntown,Panama,2,Repeat
+152,377,213,2023-10-27,5,33.95,Synchronized transitional alliance,Joseph Holt,Mystery,1903,6.79,35,Darrell Khan,anna59@hall.com,1234568267,Austinfort,Montenegro,2,Repeat
+153,484,370,2024-02-19,2,87.82,Synergistic user-facing frame,David Olson,Non-Fiction,1977,43.91,97,Christine Burton,hawkinstiffany@hotmail.com,1234568374,Richardsonbury,Latvia,1,One-time
+154,378,391,2023-10-12,5,167.1,Face-to-face 6thgeneration attitude,Erica Olson,Romance,2009,33.42,35,Anthony Kane,dana95@yahoo.com,1234568268,Port Josephmouth,Congo,2,Repeat
+155,191,397,2024-01-21,6,168.9,Object-based secondary emulation,Angela Richard,Science Fiction,1969,28.15,50,Natasha Owens,xpreston@yahoo.com,1234568081,Bradleyburgh,Tonga,1,One-time
+156,176,66,2024-05-27,5,141.45,Synergized bandwidth-monitored workforce,Amy Marks,Fantasy,1961,28.29,93,Sandra Booker,williamjenkins@gmail.com,1234568066,Matthewport,Uruguay,1,One-time
+157,166,245,2024-05-24,10,160.6,Automated client-driven open architecture,Jose Brown,Non-Fiction,2000,16.06,18,John Delacruz,dhurley@walsh.biz,1234568056,Port Timothy,Monaco,3,Repeat
+158,183,225,2023-07-04,3,108.12,Synergized foreground website,Carrie Ware,Biography,1976,36.04,26,Jeffrey Howard,ramirezcaroline@weeks.info,1234568073,New Kylefurt,Saint Martin,2,Repeat
+159,174,51,2024-09-11,3,138.9,Visionary optimizing project,Douglas Bush,Biography,2022,46.3,95,Jonathon Strickland,ryan10@yahoo.com,1234568064,Bakerton,Dominica,4,Repeat
+160,255,85,2023-03-27,3,58.29,Enhanced impactful system engine,Bianca Matthews,Science Fiction,1939,19.43,29,Vincent Duncan,kristi92@gmail.com,1234568145,Moodyville,China,1,One-time
+161,227,42,2024-01-13,5,241.75,Pre-emptive interactive focus group,Shannon Reese,Mystery,1937,48.35,82,Jeffery Zimmerman,michaelbell@miranda-thomas.info,1234568117,West Robertport,Indonesia,1,One-time
+162,295,298,2023-05-21,7,326.62,Assimilated composite archive,Mark Gibson,Fiction,1957,46.66,62,Paul Morales,qsmith@hotmail.com,1234568185,Gonzalestown,Vietnam,3,Repeat
+163,207,384,2023-11-23,3,101.76,Multi-channeled needs-based intranet,Molly Roberts,Romance,1911,33.92,46,Sarah Williams,dorseymichael@garcia-smith.com,1234568097,Barbarahaven,United Kingdom,2,Repeat
+164,467,184,2024-06-27,9,47.25,Enterprise-wide solution-oriented challenge,Megan Jones,Fantasy,1978,5.25,22,Anna Green,tony39@hotmail.com,1234568357,East Jennifertown,New Caledonia,2,Repeat
+165,382,362,2024-09-23,6,176.58,Profit-focused multimedia throughput,Andrea Lucas,Fiction,1933,29.43,64,Tara Duncan,parkscaleb@gmail.com,1234568272,Port Anthonyland,Australia,2,Repeat
+166,272,486,2023-09-17,6,114.78,Monitored tangible extranet,Lisa Medina,Non-Fiction,2018,19.13,52,Carl Smith,davidandrade@gmail.com,1234568162,Lake Samantha,Algeria,3,Repeat
+167,168,442,2024-11-24,3,145.44,Enhanced grid-enabled budgetary management,Betty Cross,Non-Fiction,1993,48.48,93,Ashley Larsen,daniellewilliams@stone-moore.com,1234568058,Port Aaronstad,Papua New Guinea,1,One-time
+168,324,36,2023-01-11,10,345.1,Open-source needs-based secured line,Jacob French,Mystery,1949,34.51,86,Larry Adams,lorimoses@james.com,1234568214,Lake Julieborough,Cuba,1,One-time
+169,81,415,2024-02-04,10,295.1,Enhanced next generation standardization,Anthony Nguyen,Fantasy,1976,29.51,18,Matthew Hall,patrick24@hotmail.com,1234567971,Lake Zachary,Suriname,2,Repeat
+170,121,77,2023-05-06,10,442.8,Cross-platform asynchronous encryption,Michelle Edwards,Fantasy,1935,44.28,88,Ashley Hernandez,wfrey@sosa.info,1234568011,Jenniferfurt,Japan,2,Repeat
+171,364,397,2023-01-12,10,281.5,Object-based secondary emulation,Angela Richard,Science Fiction,1969,28.15,50,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+172,463,423,2024-09-20,1,25.63,Implemented systematic leverage,Daisy Johnson,Romance,1943,25.63,14,Brandon Dunn,martinezdarren@hotmail.com,1234568353,East Lindsey,Saint Kitts and Nevis,3,Repeat
+173,399,61,2023-07-01,5,205.25,Future-proofed upward-trending process improvement,Gregory Wallace,Non-Fiction,1934,41.05,10,Daniel Andrews,joneschristine@gmail.com,1234568289,East Timothy,Micronesia,1,One-time
+174,34,29,2023-12-17,4,124.48,Quality-focused multi-tasking challenge,Katrina Underwood,Fiction,1905,31.12,100,Ryan Love,joseph37@gmail.com,1234567924,Leestad,Anguilla,1,One-time
+175,385,103,2023-10-12,1,43.25,Upgradable foreground open system,Kathryn Lopez,Science Fiction,1907,43.25,11,Kenneth Cohen,jacquelinelee@yahoo.com,1234568275,Robinmouth,Burundi,3,Repeat
+176,86,479,2023-09-19,6,229.62,Balanced grid-enabled architecture,Christian Morales,Fiction,2009,38.27,60,Molly Robinson,rebeccataylor@mcbride.info,1234567976,South Kathleen,Cuba,1,One-time
+177,378,121,2024-08-21,3,127.41,Switchable needs-based strategy,Richard Fisher,Biography,1957,42.47,38,Anthony Kane,dana95@yahoo.com,1234568268,Port Josephmouth,Congo,2,Repeat
+178,70,298,2023-05-03,10,466.6,Assimilated composite archive,Mark Gibson,Fiction,1957,46.66,62,Laura Duarte,jimenezchristine@dickson.com,1234567960,West Kimberlyhaven,Finland,1,One-time
+179,325,52,2023-02-01,9,148.77,Triple-buffered neutral adapter,Kristi Phillips,Science Fiction,2003,16.53,85,Emily Vargas,lklein@gmail.com,1234568215,Aguilarside,Tonga,4,Repeat
+180,460,227,2023-01-20,7,267.19,Centralized context-sensitive functionalities,Virginia Levine,Non-Fiction,1900,38.17,78,Jasmine Garner,dukebrandon@hotmail.com,1234568350,North Kimberlyland,Croatia,2,Repeat
+181,8,117,2023-01-18,3,44.61,Self-enabling contextually-based frame,Lori Taylor,Science Fiction,1966,14.87,20,Matthew Johnson,austinkenneth@manning.net,1234567898,Kirstenborough,Israel,2,Repeat
+182,129,293,2023-11-01,7,125.51,Secured object-oriented secured line,Megan Kennedy,Fantasy,1955,17.93,58,Carolyn Perez,singhsarah@gmail.com,1234568019,Adkinsview,Macedonia,1,One-time
+183,335,371,2024-06-08,1,17.4,Multi-tiered methodical paradigm,Vicki Vance,Non-Fiction,1959,17.4,43,Alyssa Zhang,baileymichelle@lewis.com,1234568225,West Lindseyton,Netherlands,1,One-time
+184,474,88,2024-04-30,2,80.44,Robust tangible hardware,Paul Miles,Non-Fiction,1999,40.22,32,Anthony Young,rogersbill@gmail.com,1234568364,East Chelsea,Cook Islands,5,Repeat
+185,15,25,2023-03-09,6,51.3,Devolved mobile conglomeration,Alexander Bailey,Biography,1984,8.55,79,Vanessa Gaines,tbullock@gmail.com,1234567905,Rodriguezmouth,Wallis and Futuna,2,Repeat
+186,167,120,2023-04-03,7,336.21,Integrated secondary access,Sheena Harris,Non-Fiction,1984,48.03,93,Justin Spencer,michaelsnyder@gmail.com,1234568057,Christopherchester,South Africa,3,Repeat
+187,119,275,2023-12-30,1,25.83,Team-oriented dedicated attitude,Jeffrey Richardson,Biography,2006,25.83,91,Alyssa Cuevas,hholland@gmail.com,1234568009,Lake Victormouth,Serbia,3,Repeat
+188,46,425,2023-03-13,1,24.23,Synergized analyzing solution,Tammy Cervantes,Non-Fiction,1990,24.23,45,Travis Wells,stacywilson@hotmail.com,1234567936,New David,Moldova,1,One-time
+189,107,240,2024-07-11,6,299.4,Stand-alone content-based hub,Lisa Ellis,Fantasy,1957,49.9,41,Amy Hunt,emilybecker@perkins.com,1234567997,Ericborough,Aruba,4,Repeat
+190,240,273,2024-07-02,4,49.72,Devolved zero administration process improvement,Emily James,Romance,1929,12.43,23,Paul Waters,kyle55@thomas.org,1234568130,Amandamouth,Fiji,1,One-time
+191,418,390,2024-03-25,1,39.96,Versatile mission-critical customer loyalty,Rachel Case,Biography,1947,39.96,35,Kiara Blankenship MD,grahamvictor@sutton.com,1234568308,Brandimouth,Belarus,3,Repeat
+192,144,380,2024-06-24,2,26.34,Universal fault-tolerant array,Michael Johnson,Science Fiction,1984,13.17,78,Austin Shea,christopherhart@davis.com,1234568034,Port Jeffreybury,San Marino,1,One-time
+193,474,36,2023-03-31,7,241.57,Open-source needs-based secured line,Jacob French,Mystery,1949,34.51,86,Anthony Young,rogersbill@gmail.com,1234568364,East Chelsea,Cook Islands,5,Repeat
+194,463,340,2024-11-04,5,249.9,Proactive system-worthy orchestration,Robert Scott,Mystery,1907,49.98,88,Brandon Dunn,martinezdarren@hotmail.com,1234568353,East Lindsey,Saint Kitts and Nevis,3,Repeat
+195,437,241,2023-07-17,2,28.12,Up-sized fault-tolerant hub,Taylor Wang,Fantasy,2015,14.06,38,Cynthia Cooper,russellpriscilla@gmail.com,1234568327,Wrightfurt,Philippines,4,Repeat
+196,214,468,2023-04-03,7,214.13,Organized upward-trending parallelism,Nicole Davenport,Fantasy,1987,30.59,83,Alexander Scott,amypierce@hotmail.com,1234568104,Matthewfurt,El Salvador,3,Repeat
+197,256,32,2024-05-25,10,215.6,Synergistic dedicated concept,Lisa Bailey,Mystery,2021,21.56,100,Denise Hall,stephenthompson@yoder-pearson.com,1234568146,East Wyattchester,Mauritius,1,One-time
+198,373,117,2023-06-13,1,14.87,Self-enabling contextually-based frame,Lori Taylor,Science Fiction,1966,14.87,20,Rebecca Cruz,pmcknight@yahoo.com,1234568263,Emilymouth,Austria,1,One-time
+199,429,18,2024-09-30,10,394.7,Adaptive 4thgeneration concept,Hector Palmer,Non-Fiction,2021,39.47,32,Rhonda Norton,crystalnoble@gmail.com,1234568319,South Timothy,Tajikistan,3,Repeat
+200,313,303,2023-11-23,1,6.57,Open-source background extranet,Meredith Miller,Romance,1968,6.57,77,David Nelson,laura23@hotmail.com,1234568203,Lake Jane,Macao,2,Repeat
+201,67,463,2023-10-11,4,47.96,Re-engineered disintermediate definition,Cheryl Anderson,Fantasy,1911,11.99,36,Denise Chapman,andrew13@pacheco-hughes.com,1234567957,Garcialand,Cote d'Ivoire,1,One-time
+202,137,69,2023-12-17,8,70.32,Cloned impactful solution,Nichole Smith,Fantasy,1961,8.79,50,Steven Miller,tsummers@yahoo.com,1234568027,North Keith,Papua New Guinea,2,Repeat
+203,116,110,2023-12-27,4,120.6,Re-contextualized radical matrix,Michael Howell,Fantasy,1903,30.15,2,Joshua Rodriguez,melissa54@gmail.com,1234568006,Charleston,Palestinian Territory,1,One-time
+204,47,427,2023-05-26,3,54.0,Ergonomic zero-defect software,Denise Mclaughlin,Fantasy,1965,18.0,46,Debra Park,dawnmyers@munoz-ayala.com,1234567937,Phillipsmouth,Isle of Man,3,Repeat
+205,279,457,2023-03-21,2,56.44,Configurable disintermediate extranet,Melissa Lewis,Mystery,1953,28.22,2,Susan Hughes,efuller@williams-johnson.biz,1234568169,New Julieville,Estonia,2,Repeat
+206,81,130,2023-07-19,1,6.64,Realigned context-sensitive pricing structure,Jason Rodriguez,Fiction,2004,6.64,90,Matthew Hall,patrick24@hotmail.com,1234567971,Lake Zachary,Suriname,2,Repeat
+207,194,461,2023-09-06,1,9.6,Cloned cohesive attitude,Daniel Walsh,Science Fiction,1969,9.6,39,Eric Jimenez,nelliott@yahoo.com,1234568084,West Robinport,Sweden,3,Repeat
+208,13,101,2024-05-21,6,290.94,Multi-tiered context-sensitive hub,Amanda Knight,Mystery,1923,48.49,40,Kristine Kim,sarahwilliams@hotmail.com,1234567903,Lake Robert,Nigeria,2,Repeat
+209,346,449,2024-01-03,10,401.7,Universal homogeneous adapter,Gina Lopez,Romance,1966,40.17,1,Julie Mcintyre,dmcintyre@luna.com,1234568236,West Dakotaport,Heard Island and McDonald Islands,2,Repeat
+210,287,223,2023-10-14,6,39.12,Virtual holistic Internet solution,Lauren Merritt,Mystery,1944,6.52,95,Kayla Novak,normanlane@gmail.com,1234568177,New Monicastad,Comoros,2,Repeat
+211,397,209,2024-01-17,10,486.7,Distributed modular capability,Nicole Berger,Mystery,1979,48.67,63,Catherine Wilkins,nathanielrogers@yahoo.com,1234568287,Mendezburgh,Australia,1,One-time
+212,244,300,2024-04-20,2,53.74,Integrated fresh-thinking toolset,Joseph Jensen,Non-Fiction,1962,26.87,77,Jennifer Parrish,nfoster@yahoo.com,1234568134,East Monique,Botswana,1,One-time
+213,325,447,2023-11-17,7,253.75,Enterprise-wide empowering circuit,Steven Hutchinson,Mystery,1906,36.25,9,Emily Vargas,lklein@gmail.com,1234568215,Aguilarside,Tonga,4,Repeat
+214,103,114,2024-09-04,7,50.96,Open-architected scalable knowledge user,Mitchell Larson,Mystery,2016,7.28,2,Ashley Castro,watsonmolly@yahoo.com,1234567993,Leeport,Swaziland,2,Repeat
+215,461,138,2023-08-17,8,198.16,Profound zero-defect knowledgebase,Carolyn Garcia,Fantasy,1978,24.77,8,Crystal Pierce,webbteresa@gutierrez-garcia.com,1234568351,Port Davidhaven,Denmark,3,Repeat
+216,104,428,2024-02-28,4,90.92,Innovative asymmetric utilization,Darryl Price,Romance,1966,22.73,66,Anthony Ortiz,amartinez@gmail.com,1234567994,Michaelfort,Nicaragua,1,One-time
+217,414,142,2022-12-28,2,97.92,Multi-tiered responsive parallelism,Amanda Wilson,Fiction,1940,48.96,11,Harold Burns,gregorynielsen@johnson.com,1234568304,Lake Hannahton,Tonga,2,Repeat
+218,364,47,2024-02-13,8,162.96,Reverse-engineered directional conglomeration,John Christian,Fiction,2006,20.37,90,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+219,186,157,2024-02-11,9,172.53,Advanced didactic time-frame,Thomas Trujillo,Biography,2005,19.17,57,Kimberly Gallagher,derek84@hotmail.com,1234568076,West Steven,Netherlands,1,One-time
+220,376,275,2023-07-07,1,25.83,Team-oriented dedicated attitude,Jeffrey Richardson,Biography,2006,25.83,91,Justin Donaldson,itaylor@yahoo.com,1234568266,Petersonbury,Syrian Arab Republic,2,Repeat
+221,353,219,2023-09-10,5,104.5,Reactive bandwidth-monitored architecture,Michele Williams,Mystery,1961,20.9,32,Michael Reese,vargasdylan@stark-hicks.biz,1234568243,Jaclynfurt,Saint Martin,3,Repeat
+222,331,157,2023-09-19,10,191.7,Advanced didactic time-frame,Thomas Trujillo,Biography,2005,19.17,57,Megan Martin,fosterjames@anderson.biz,1234568221,Port Christianberg,Peru,2,Repeat
+223,213,31,2022-12-17,10,212.3,Implemented encompassing conglomeration,Melissa Taylor,Fiction,2010,21.23,44,Joshua Page,robertwiggins@gmail.com,1234568103,East Kyle,Bangladesh,1,One-time
+224,384,90,2024-07-19,4,66.24,Business-focused eco-centric help-desk,Sarah Miller,Science Fiction,1965,16.56,10,Thomas Garcia,davidvelez@romero-marsh.com,1234568274,Michaelview,Sri Lanka,2,Repeat
+225,272,115,2023-06-08,4,112.48,Upgradable interactive emulation,Christopher Ross,Biography,2021,28.12,37,Carl Smith,davidandrade@gmail.com,1234568162,Lake Samantha,Algeria,3,Repeat
+226,437,35,2024-01-25,9,286.29,Grass-roots solution-oriented adapter,William Turner,Non-Fiction,2018,31.81,85,Cynthia Cooper,russellpriscilla@gmail.com,1234568327,Wrightfurt,Philippines,4,Repeat
+227,461,308,2023-05-04,8,166.0,Expanded maximized collaboration,Amanda Moore,Romance,2009,20.75,35,Crystal Pierce,webbteresa@gutierrez-garcia.com,1234568351,Port Davidhaven,Denmark,3,Repeat
+228,400,104,2024-06-07,3,31.68,Automated radical solution,Leonard Vega,Biography,1948,10.56,82,Heather Ward,doris54@hotmail.com,1234568290,Robertsview,Panama,2,Repeat
+229,82,482,2024-02-09,7,223.72,Pre-emptive transitional contingency,Joseph Holt,Science Fiction,1965,31.96,33,Shaun Fernandez,greenmichael@hotmail.com,1234567972,Wrightburgh,Malaysia,2,Repeat
+230,307,241,2023-09-10,7,98.42,Up-sized fault-tolerant hub,Taylor Wang,Fantasy,2015,14.06,38,Beth Mcguire,lisa66@hotmail.com,1234568197,New Katherine,Paraguay,1,One-time
+231,22,384,2023-11-11,1,33.92,Multi-channeled needs-based intranet,Molly Roberts,Romance,1911,33.92,46,Stacey Adams,fjohnson@gmail.com,1234567912,Clintonmouth,Iceland,3,Repeat
+232,220,229,2024-07-26,5,102.3,Managed hybrid array,Charles Smith,Romance,1965,20.46,78,Jasmin Sullivan,randalllowery@yahoo.com,1234568110,Ellistown,Equatorial Guinea,1,One-time
+233,403,181,2024-04-28,7,271.11,Balanced object-oriented Graphic Interface,Dylan Christensen,Romance,1987,38.73,85,Heather Thomas,laura69@cohen.com,1234568293,New Michaelview,Turkmenistan,1,One-time
+234,149,11,2024-11-21,5,179.75,Secured zero tolerance time-frame,Denise Barnes,Fantasy,1998,35.95,10,Jason Robinson,masonzachary@gmail.com,1234568039,Victoriafurt,French Guiana,3,Repeat
+235,419,459,2024-11-12,3,107.31,Customizable optimal infrastructure,Robert Garcia,Mystery,2013,35.77,45,James Harrison,sarah23@yahoo.com,1234568309,Dominguezstad,Saint Martin,1,One-time
+236,375,265,2024-11-04,9,419.4,Adaptive homogeneous moratorium,Jennifer Johnson,Non-Fiction,1926,46.6,66,Robert Short,guerraedward@irwin.net,1234568265,South John,Switzerland,1,One-time
+237,47,199,2023-08-15,7,299.67,Configurable fault-tolerant interface,Mark Parker,Mystery,1923,42.81,1,Debra Park,dawnmyers@munoz-ayala.com,1234567937,Phillipsmouth,Isle of Man,3,Repeat
+238,134,280,2024-02-26,6,100.68,Balanced next generation forecast,Aaron Rangel,Non-Fiction,1977,16.78,97,Nichole Velez,brenda93@gmail.com,1234568024,Keithberg,Uruguay,2,Repeat
+239,132,307,2023-09-19,5,72.15,Expanded local infrastructure,Valerie Moore,Mystery,1914,14.43,7,Angela Maynard,millerjason@yahoo.com,1234568022,Milesmouth,India,1,One-time
+240,457,492,2023-05-30,10,440.7,Implemented next generation open architecture,Marcus Spencer,Science Fiction,1984,44.07,76,Kim Turner,jennifer45@weiss-perry.com,1234568347,South Rachelview,Cambodia,4,Repeat
+241,119,69,2024-07-08,6,52.74,Cloned impactful solution,Nichole Smith,Fantasy,1961,8.79,50,Alyssa Cuevas,hholland@gmail.com,1234568009,Lake Victormouth,Serbia,3,Repeat
+242,416,410,2023-06-15,9,398.97,Team-oriented tangible ability,Veronica Hebert,Science Fiction,2005,44.33,42,Lisa Tucker,sarah27@hotmail.com,1234568306,Port Trevorchester,Jamaica,1,One-time
+243,82,350,2024-08-02,10,316.7,Exclusive 24hour groupware,Brian Baker,Romance,2008,31.67,49,Shaun Fernandez,greenmichael@hotmail.com,1234567972,Wrightburgh,Malaysia,2,Repeat
+244,12,380,2024-10-28,3,39.51,Universal fault-tolerant array,Michael Johnson,Science Fiction,1984,13.17,78,Jennifer Murray,wilsonbrittany@hotmail.com,1234567902,South Ashleychester,Zimbabwe,1,One-time
+245,386,97,2023-11-01,9,411.66,Open-architected stable solution,Chad Nichols,Science Fiction,2017,45.74,70,Pamela Gordon,mandy28@thomas-white.com,1234568276,East Richardburgh,Yemen,3,Repeat
+246,401,415,2024-11-14,2,59.02,Enhanced next generation standardization,Anthony Nguyen,Fantasy,1976,29.51,18,Jason Parker,johnsimpson@hotmail.com,1234568291,Danielview,Bangladesh,1,One-time
+247,77,142,2024-03-07,10,489.6,Multi-tiered responsive parallelism,Amanda Wilson,Fiction,1940,48.96,11,Jason Villegas,thomas00@stewart.com,1234567967,Fieldsland,Senegal,1,One-time
+248,312,285,2023-09-09,9,248.85,Devolved secondary function,Sheila Nelson,Science Fiction,1914,27.65,34,Patricia Hughes,colleen51@king.com,1234568202,Pennyland,Denmark,1,One-time
+249,131,189,2023-01-15,8,109.2,Grass-roots eco-centric task-force,Brandon Munoz,Mystery,1989,13.65,88,Peter Smith,wmorales@miller.com,1234568021,North Carolyn,Jersey,2,Repeat
+250,63,65,2023-09-16,9,204.3,Total explicit open architecture,Zachary Williams,Science Fiction,1982,22.7,7,Manuel Lewis,alicia70@hotmail.com,1234567953,Brendatown,Heard Island and McDonald Islands,1,One-time
+251,109,490,2023-12-12,2,25.76,Progressive client-server infrastructure,Philip Thompson,Non-Fiction,2019,12.88,40,Jacob Kelley,qbarber@shelton.org,1234567999,Ravenberg,Macao,2,Repeat
+252,405,387,2023-11-15,5,237.1,Grass-roots disintermediate analyzer,Amber Davis,Non-Fiction,1979,47.42,6,Julie Smith,knightmonica@krueger-hamilton.biz,1234568295,Freemanland,Vanuatu,4,Repeat
+253,449,273,2023-01-03,3,37.29,Devolved zero administration process improvement,Emily James,Romance,1929,12.43,23,Linda Reid,hartwendy@sanchez.info,1234568339,Frenchburgh,New Zealand,3,Repeat
+254,99,469,2023-07-18,2,46.5,Automated 5thgeneration customer loyalty,Kimberly Shannon,Fantasy,1967,23.25,92,Timothy Lane,janet99@davis.net,1234567989,South Heather,Turkey,1,One-time
+255,217,406,2023-04-19,4,143.16,De-engineered methodical capacity,James Gonzalez,Fiction,2006,35.79,50,Lisa Powers,hamiltonjose@hotmail.com,1234568107,Garnertown,Uzbekistan,1,One-time
+256,225,174,2024-05-30,9,340.47,Pre-emptive executive knowledge user,Rebecca Mann,Mystery,1951,37.83,18,Christopher Mccullough,kcarlson@yahoo.com,1234568115,Port Amandahaven,Jersey,2,Repeat
+257,123,403,2023-11-06,1,15.01,Persevering incremental strategy,David Miller,Fiction,1928,15.01,82,Renee Clay,bellison@yahoo.com,1234568013,Bowmanport,Moldova,1,One-time
+258,179,387,2023-08-08,3,142.26,Grass-roots disintermediate analyzer,Amber Davis,Non-Fiction,1979,47.42,6,John Foster,andrew52@sanchez-mullen.info,1234568069,Novakland,Andorra,1,One-time
+259,437,77,2023-01-08,2,88.56,Cross-platform asynchronous encryption,Michelle Edwards,Fantasy,1935,44.28,88,Cynthia Cooper,russellpriscilla@gmail.com,1234568327,Wrightfurt,Philippines,4,Repeat
+260,112,170,2024-05-07,2,22.56,Optional stable matrix,Michael Wells,Non-Fiction,1947,11.28,62,Andrew Wilson,johnny54@gmail.com,1234568002,North Nicholasmouth,Guinea-Bissau,1,One-time
+261,200,288,2023-07-25,8,223.28,Re-contextualized real-time Graphic Interface,Erica Parker,Science Fiction,1908,27.91,9,Ashley Powers,probinson@gmail.com,1234568090,West Danny,Pitcairn Islands,1,One-time
+262,224,376,2022-12-11,6,175.56,Mandatory full-range middleware,Debra Horn,Romance,1997,29.26,76,Julie Stewart,uthompson@hotmail.com,1234568114,Smithmouth,British Indian Ocean Territory (Chagos Archipelago),2,Repeat
+263,260,373,2024-08-20,2,78.18,Exclusive dynamic approach,Michelle Mercado,Fiction,1911,39.09,49,Kathryn Fitzgerald,jenniferodom@gmail.com,1234568150,West Maria,Swaziland,2,Repeat
+264,290,13,2023-10-29,9,126.36,Adaptive 5thgeneration orchestration,Jaclyn Miller,Romance,1913,14.04,99,Sarah Cameron,egonzalez@bell.com,1234568180,West Blake,Guyana,3,Repeat
+265,258,100,2024-09-17,9,449.01,Synchronized client-server service-desk,James Alvarado,Fiction,1906,49.89,29,Jacob French,michael67@yahoo.com,1234568148,Crystalborough,Korea,1,One-time
+266,167,426,2023-06-02,10,328.2,Triple-buffered upward-trending artificial intelligence,John Shannon,Biography,2021,32.82,98,Justin Spencer,michaelsnyder@gmail.com,1234568057,Christopherchester,South Africa,3,Repeat
+267,467,390,2024-08-30,9,359.64,Versatile mission-critical customer loyalty,Rachel Case,Biography,1947,39.96,35,Anna Green,tony39@hotmail.com,1234568357,East Jennifertown,New Caledonia,2,Repeat
+268,117,56,2024-11-15,9,70.83,Integrated intermediate Internet solution,Stacy Cabrera,Mystery,1976,7.87,67,Molly Murphy,jamesswanson@williams-smith.info,1234568007,Sawyerchester,Korea,2,Repeat
+269,8,157,2024-03-15,5,95.85,Advanced didactic time-frame,Thomas Trujillo,Biography,2005,19.17,57,Matthew Johnson,austinkenneth@manning.net,1234567898,Kirstenborough,Israel,2,Repeat
+270,120,82,2024-04-13,7,319.9,Optimized multi-state capacity,Sean Griffin,Non-Fiction,2001,45.7,38,Rita Wallace,catherinehayes@hotmail.com,1234568010,Lake Eric,Zimbabwe,2,Repeat
+271,462,40,2023-07-01,1,25.97,Adaptive didactic interface,Natalie Gonzalez,Fiction,1923,25.97,94,James Brewer,ebrown@ewing-warner.com,1234568352,Chandlerberg,Mongolia,3,Repeat
+272,228,321,2024-11-02,1,24.32,Polarized optimizing moratorium,Amanda Savage,Biography,1911,24.32,16,Janet Hobbs,hansenkristin@wright-white.net,1234568118,Mcguireton,Australia,1,One-time
+273,357,119,2022-12-14,8,399.04,Switchable modular moratorium,Tonya Saunders,Romance,2010,49.88,76,Scott Oconnell,matthew25@jones-brown.net,1234568247,Natashaville,China,2,Repeat
+274,254,120,2024-04-10,2,96.06,Integrated secondary access,Sheena Harris,Non-Fiction,1984,48.03,93,Katherine Mooney,craigrichard@yahoo.com,1234568144,Johnsonport,Senegal,1,One-time
+275,495,31,2023-01-05,2,42.46,Implemented encompassing conglomeration,Melissa Taylor,Fiction,2010,21.23,44,Patrick Rivera,donaldmadden@hotmail.com,1234568385,Lake Elizabethborough,Comoros,2,Repeat
+276,166,46,2024-11-16,3,99.51,Distributed attitude-oriented open system,Jamie Lambert,Romance,1923,33.17,75,John Delacruz,dhurley@walsh.biz,1234568056,Port Timothy,Monaco,3,Repeat
+277,276,292,2022-12-18,1,26.94,Fully-configurable mission-critical artificial intelligence,Rachel Adkins,Mystery,2017,26.94,2,Carol Petersen,roberthayes@tucker.biz,1234568166,East Jeremyside,Czech Republic,1,One-time
+278,111,71,2024-11-18,9,346.5,Organized methodical productivity,Daniel Santos,Biography,1950,38.5,40,Danielle Parsons,millerdaniel@hotmail.com,1234568001,Port Jessica,Brunei Darussalam,1,One-time
+279,204,339,2024-11-13,9,391.59,Centralized uniform extranet,Steven Mcdonald,Romance,2014,43.51,68,Dominic Jenkins,edavenport@jenkins-green.com,1234568094,Yvonneside,Svalbard & Jan Mayen Islands,1,One-time
+280,181,377,2023-05-11,8,318.32,Realigned 6thgeneration infrastructure,Jennifer Hughes,Mystery,2007,39.79,55,Courtney Ray,robert24@montgomery-frazier.com,1234568071,Josephstad,Honduras,2,Repeat
+281,23,431,2024-11-23,8,155.84,Synergized fresh-thinking monitoring,Christopher Dixon,Romance,1965,19.48,31,Hannah Drake,sandersallen@hotmail.com,1234567913,Deannabury,Faroe Islands,2,Repeat
+282,364,154,2024-11-22,6,104.64,Horizontal hybrid forecast,Alexander Wallace,Mystery,1919,17.44,19,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+283,277,471,2024-10-31,8,363.04,Cross-platform next generation website,Anna Roberts,Romance,1929,45.38,37,David Collins,nicholasdean@foster-hall.org,1234568167,South Victoriaport,Liechtenstein,2,Repeat
+284,325,466,2023-01-06,4,148.68,Multi-channeled mission-critical initiative,Michelle Hanson,Fantasy,2015,37.17,93,Emily Vargas,lklein@gmail.com,1234568215,Aguilarside,Tonga,4,Repeat
+285,198,469,2024-07-30,6,139.5,Automated 5thgeneration customer loyalty,Kimberly Shannon,Fantasy,1967,23.25,92,Curtis Winters,rodriguezmadison@herrera.com,1234568088,Davidburgh,Qatar,2,Repeat
+286,96,264,2023-04-23,2,41.02,De-engineered local interface,Wayne Hall,Biography,2015,20.51,47,Levi Pierce,bayers@gmail.com,1234567986,Dayburgh,Bouvet Island (Bouvetoya),2,Repeat
+287,74,163,2023-06-25,3,57.33,Object-based eco-centric challenge,Douglas Mccarthy,Non-Fiction,1905,19.11,0,Bryan Moore,brendawong@juarez-camacho.biz,1234567964,Blackchester,Norfolk Island,1,One-time
+288,6,128,2023-11-13,1,24.04,Visionary modular productivity,Ruben Nichols,Romance,1949,24.04,35,Stephen Vasquez,ricemiguel@yahoo.com,1234567896,Hamiltonstad,Rwanda,2,Repeat
+289,321,491,2023-08-30,2,29.74,Pre-emptive intangible adapter,Michael Hill,Fantasy,1910,14.87,2,Charlene Arroyo,edowns@holmes-adams.org,1234568211,Wilsonstad,Slovenia,2,Repeat
+290,31,219,2024-08-18,2,41.8,Reactive bandwidth-monitored architecture,Michele Williams,Mystery,1961,20.9,32,Amanda Morton,lolsen@jones.com,1234567921,Marktown,Antigua and Barbuda,1,One-time
+291,214,154,2024-04-15,8,139.52,Horizontal hybrid forecast,Alexander Wallace,Mystery,1919,17.44,19,Alexander Scott,amypierce@hotmail.com,1234568104,Matthewfurt,El Salvador,3,Repeat
+292,388,432,2024-02-11,4,35.36,Horizontal disintermediate alliance,Rodney Ward,Non-Fiction,1951,8.84,55,Joshua Bass,goodmanmary@lara-bowen.net,1234568278,Christinamouth,Bulgaria,2,Repeat
+293,96,214,2024-01-20,9,163.44,Fundamental methodical open architecture,Jeffery Green,Fiction,2005,18.16,47,Levi Pierce,bayers@gmail.com,1234567986,Dayburgh,Bouvet Island (Bouvetoya),2,Repeat
+294,21,302,2023-10-01,4,114.68,Ergonomic leadingedge portal,James Curtis,Fiction,1981,28.67,92,Edgar Frost,maria51@gmail.com,1234567911,Jonathanhaven,Saudi Arabia,2,Repeat
+295,414,269,2024-10-07,5,165.4,Decentralized disintermediate Internet solution,Jerry Fisher,Romance,1963,33.08,42,Harold Burns,gregorynielsen@johnson.com,1234568304,Lake Hannahton,Tonga,2,Repeat
+296,181,486,2023-09-13,1,19.13,Monitored tangible extranet,Lisa Medina,Non-Fiction,2018,19.13,52,Courtney Ray,robert24@montgomery-frazier.com,1234568071,Josephstad,Honduras,2,Repeat
+297,382,381,2024-07-27,4,42.4,Total foreground alliance,Anthony Wilson,Non-Fiction,1977,10.6,14,Tara Duncan,parkscaleb@gmail.com,1234568272,Port Anthonyland,Australia,2,Repeat
+298,359,73,2024-08-22,10,212.3,Realigned multi-tasking installation,Patrick Contreras,Mystery,1933,21.23,39,Michelle Jackson,mbyrd@howard.org,1234568249,South Eric,Armenia,1,One-time
+299,189,348,2024-07-29,8,100.96,Object-based contextually-based model,Amber Patterson,Romance,1907,12.62,22,Jason Bell,williambrown@hotmail.com,1234568079,Taylorfurt,Somalia,2,Repeat
+300,90,485,2023-12-09,7,162.12,Decentralized content-based access,Nancy Taylor,Mystery,1900,23.16,57,Matthew Meyer,moorebrittany@yahoo.com,1234567980,West Christopher,Benin,1,One-time
+301,339,346,2024-09-12,4,39.88,Object-based asynchronous moratorium,Jennifer Oliver,Fantasy,1965,9.97,23,Lisa Hayes,david63@gmail.com,1234568229,New Beverly,Marshall Islands,2,Repeat
+302,348,80,2024-02-29,6,209.04,Compatible 24/7 forecast,Michael Anderson,Science Fiction,1985,34.84,19,Matthew Gardner,wayne40@wilkerson.com,1234568238,Gentryfort,Mozambique,2,Repeat
+303,423,31,2023-08-12,6,127.38,Implemented encompassing conglomeration,Melissa Taylor,Fiction,2010,21.23,44,Dale Johnson,wmedina@hotmail.com,1234568313,New Keithville,Anguilla,2,Repeat
+304,59,229,2024-02-06,9,184.14,Managed hybrid array,Charles Smith,Romance,1965,20.46,78,Andrew Collins,msanchez@king.net,1234567949,West Sheri,Guatemala,3,Repeat
+305,107,266,2023-12-18,4,133.16,Persevering disintermediate application,Jeremy Bailey,Non-Fiction,1927,33.29,92,Amy Hunt,emilybecker@perkins.com,1234567997,Ericborough,Aruba,4,Repeat
+306,54,316,2024-11-28,4,35.24,Multi-tiered client-server methodology,Rebecca Chavez,Fantasy,1992,8.81,74,Rachel Jones,bmedina@hotmail.com,1234567944,Brendafurt,Central African Republic,2,Repeat
+307,368,133,2023-11-17,1,20.96,Reduced discrete leverage,Zachary Buchanan,Mystery,1911,20.96,90,Diane Clark,sydney29@nguyen-jones.biz,1234568258,North Michael,Samoa,2,Repeat
+308,499,485,2023-02-19,10,231.6,Decentralized content-based access,Nancy Taylor,Mystery,1900,23.16,57,Melissa Curtis,suzannemartinez@gmail.com,1234568389,Ashleyport,Monaco,1,One-time
+309,185,227,2022-12-29,8,305.36,Centralized context-sensitive functionalities,Virginia Levine,Non-Fiction,1900,38.17,78,Katelyn Rhodes,sbrooks@yahoo.com,1234568075,Rothshire,Mauritania,1,One-time
+310,338,334,2023-10-05,3,107.04,Synergistic fault-tolerant attitude,Robert Bullock,Mystery,1913,35.68,88,Michelle Esparza,lauren52@hotmail.com,1234568228,North Amandastad,Burundi,1,One-time
+311,198,80,2024-03-05,7,243.88,Compatible 24/7 forecast,Michael Anderson,Science Fiction,1985,34.84,19,Curtis Winters,rodriguezmadison@herrera.com,1234568088,Davidburgh,Qatar,2,Repeat
+312,209,208,2023-04-23,10,250.0,Synergized intangible methodology,Ellen Doyle,Fantasy,1917,25.0,83,Michael Maldonado,raymondmyers@trujillo.com,1234568099,Donnatown,Slovakia (Slovak Republic),1,One-time
+313,57,105,2023-10-11,8,240.16,Expanded explicit neural-net,Melissa Tucker,Romance,2005,30.02,4,Nicolas Joseph,debra75@gmail.com,1234567947,Lindaburgh,Congo,2,Repeat
+314,449,127,2024-03-09,1,11.66,Business-focused real-time benchmark,David Nelson,Science Fiction,1997,11.66,0,Linda Reid,hartwendy@sanchez.info,1234568339,Frenchburgh,New Zealand,3,Repeat
+315,281,119,2023-03-22,8,399.04,Switchable modular moratorium,Tonya Saunders,Romance,2010,49.88,76,Jennifer Booker,idiaz@hotmail.com,1234568171,Katietown,Malawi,2,Repeat
+316,329,198,2024-06-30,7,156.66,Persevering tertiary product,Michael Lee,Biography,1917,22.38,80,Miguel Jacobs,morgangeorge@buck.com,1234568219,Marshallbury,Estonia,3,Repeat
+317,400,88,2023-01-06,10,402.2,Robust tangible hardware,Paul Miles,Non-Fiction,1999,40.22,32,Heather Ward,doris54@hotmail.com,1234568290,Robertsview,Panama,2,Repeat
+318,353,84,2024-01-31,8,356.72,Stand-alone 24hour interface,James Ortiz,Romance,1980,44.59,20,Michael Reese,vargasdylan@stark-hicks.biz,1234568243,Jaclynfurt,Saint Martin,3,Repeat
+319,172,296,2024-06-27,2,22.98,Triple-buffered heuristic adapter,Jennifer Johnson,Non-Fiction,1949,11.49,49,Henry Robinson,isaac98@gmail.com,1234568062,Port Alicia,China,1,One-time
+320,376,363,2024-04-05,8,59.84,Proactive explicit capability,Tony Curtis,Romance,1915,7.48,52,Justin Donaldson,itaylor@yahoo.com,1234568266,Petersonbury,Syrian Arab Republic,2,Repeat
+321,114,386,2023-08-05,8,50.88,Synchronized 24/7 analyzer,Dawn Hart,Romance,1944,6.36,71,Austin Baxter,chavezpaula@gmail.com,1234568004,Bellfurt,Uganda,1,One-time
+322,270,112,2023-11-08,2,16.04,Distributed secondary software,Erik Reynolds,Romance,1969,8.02,21,Erika Campbell,davidbarnes@yahoo.com,1234568160,Lake Anthonyland,Croatia,1,One-time
+323,36,412,2023-06-27,6,58.98,Profound zero-defect process improvement,Lisa Alexander,Biography,1921,9.83,5,Benjamin Wallace,alexander26@hotmail.com,1234567926,Schroederton,Botswana,1,One-time
+324,306,214,2023-01-31,7,127.12,Fundamental methodical open architecture,Jeffery Green,Fiction,2005,18.16,47,Brandy Ortega,brownrachel@yahoo.com,1234568196,Port Nicoleview,Belgium,1,One-time
+325,60,394,2023-07-10,1,27.15,Integrated well-modulated Graphic Interface,Karen Reese,Fantasy,1994,27.15,59,Steven Matthews,timothy98@durham.info,1234567950,Lake Sharonville,Senegal,1,One-time
+326,16,149,2024-06-15,6,102.54,Expanded explicit solution,Tonya Robertson,Biography,1957,17.09,73,Stacey Flores,jackjackson@hotmail.com,1234567906,East Michaelfurt,Saint Helena,3,Repeat
+327,247,409,2024-07-11,2,43.12,Innovative directional project,Jerry Burch,Mystery,1941,21.56,49,Michael Ellis,rhondabailey@hotmail.com,1234568137,Port Austinview,Kyrgyz Republic,1,One-time
+328,232,3,2024-01-19,3,47.25,Streamlined coherent initiative,Derrick Howard,Non-Fiction,1913,15.75,27,Kelli Bishop,xmiller@gmail.com,1234568122,Port Jasonview,Jersey,2,Repeat
+329,171,171,2023-09-23,5,160.75,Integrated hybrid collaboration,Sarah Vincent,Science Fiction,2004,32.15,99,Catherine Short,jeffreymahoney@morales.info,1234568061,Derekberg,Kenya,1,One-time
+330,265,65,2023-01-10,10,227.0,Total explicit open architecture,Zachary Williams,Science Fiction,1982,22.7,7,Cassandra Cole,mckenziealfred@gmail.com,1234568155,Port Erinberg,Iraq,3,Repeat
+331,429,143,2023-07-15,1,43.65,Networked multimedia support,Nancy Goodman,Fiction,2012,43.65,50,Rhonda Norton,crystalnoble@gmail.com,1234568319,South Timothy,Tajikistan,3,Repeat
+332,41,113,2023-07-25,2,12.76,Versatile value-added structure,Jackson Hill,Science Fiction,1936,6.38,76,Samuel Daniels,andrew07@gmail.com,1234567931,Codyton,Benin,1,One-time
+333,161,407,2024-10-08,1,42.19,Mandatory executive groupware,Michelle Bell,Romance,1947,42.19,50,Mr. Frederick Harrison,melissawilliams@green.com,1234568051,Darlenehaven,Lebanon,1,One-time
+334,193,339,2024-03-01,6,261.06,Centralized uniform extranet,Steven Mcdonald,Romance,2014,43.51,68,Adam Grant,xrodgers@gmail.com,1234568083,South Christina,Bangladesh,1,One-time
+335,184,334,2023-06-05,7,249.76,Synergistic fault-tolerant attitude,Robert Bullock,Mystery,1913,35.68,88,Richard Mclaughlin,webbpatrick@hotmail.com,1234568074,Bestbury,Somalia,2,Repeat
+336,141,371,2023-06-23,9,156.6,Multi-tiered methodical paradigm,Vicki Vance,Non-Fiction,1959,17.4,43,Ryan Hernandez,morganhubbard@yahoo.com,1234568031,Stephanieberg,Saint Pierre and Miquelon,1,One-time
+337,230,455,2023-12-06,5,135.15,Diverse zero tolerance service-desk,Ashley Jackson,Romance,1960,27.03,55,Elijah Baker,barneslatoya@daniels-esparza.com,1234568120,Jeffreybury,Comoros,1,One-time
+338,165,486,2023-01-13,2,38.26,Monitored tangible extranet,Lisa Medina,Non-Fiction,2018,19.13,52,John Clark,wcunningham@gmail.com,1234568055,New Michael,Svalbard & Jan Mayen Islands,2,Repeat
+339,374,491,2024-03-21,10,148.7,Pre-emptive intangible adapter,Michael Hill,Fantasy,1910,14.87,2,Julie Shaw,pattersonlisa@wagner-thompson.net,1234568264,Lake Jay,Honduras,1,One-time
+340,460,222,2023-03-02,8,236.72,Virtual fault-tolerant model,Scott Wells,Science Fiction,1928,29.59,75,Jasmine Garner,dukebrandon@hotmail.com,1234568350,North Kimberlyland,Croatia,2,Repeat
+341,26,333,2024-09-06,2,55.52,Advanced responsive extranet,Mark Chavez DDS,Fantasy,1959,27.76,29,Dylan Bell,isaac43@gmail.com,1234567916,North Aaron,Guam,1,One-time
+342,178,462,2023-08-24,1,49.23,Innovative 3rdgeneration database,Allison Contreras,Fantasy,1988,49.23,62,Justin Roberson,johnsonrebecca@gmail.com,1234568068,Lake Brittany,Barbados,2,Repeat
+343,75,124,2023-01-03,7,189.7,Seamless demand-driven focus group,Matthew Fuentes,Mystery,1968,27.1,11,Carla Webb,jennifer35@mann.biz,1234567965,Jasonmouth,Gabon,2,Repeat
+344,385,218,2023-11-25,5,26.8,User-friendly tertiary forecast,Malik Stephens,Mystery,1948,5.36,34,Kenneth Cohen,jacquelinelee@yahoo.com,1234568275,Robinmouth,Burundi,3,Repeat
+345,325,253,2023-07-04,2,23.32,Horizontal didactic structure,Robert Rodriguez,Fiction,1961,11.66,21,Emily Vargas,lklein@gmail.com,1234568215,Aguilarside,Tonga,4,Repeat
+346,122,240,2024-03-10,8,399.2,Stand-alone content-based hub,Lisa Ellis,Fantasy,1957,49.9,41,Colleen Navarro,darlenelawson@chan.com,1234568012,Russellshire,Belarus,1,One-time
+347,2,118,2023-02-23,3,16.56,Profound didactic leverage,Andrew Murphy,Fantasy,2017,5.52,22,Crystal Clements,kimberlybennett@curtis.com,1234567892,East Derekberg,Nicaragua,2,Repeat
+348,239,158,2023-03-19,7,172.83,Digitized optimal intranet,James Silva,Mystery,1919,24.69,40,Amanda Kramer,kelly09@lopez.biz,1234568129,Kellermouth,Egypt,2,Repeat
+349,159,73,2023-04-15,2,42.46,Realigned multi-tasking installation,Patrick Contreras,Mystery,1933,21.23,39,Jennifer White,epage@yahoo.com,1234568049,Port Rebecca,Pitcairn Islands,2,Repeat
+350,458,154,2024-02-09,6,104.64,Horizontal hybrid forecast,Alexander Wallace,Mystery,1919,17.44,19,Yvonne Martin,alyssanash@perez-luna.net,1234568348,West Amanda,Cuba,2,Repeat
+351,425,219,2023-02-26,8,167.2,Reactive bandwidth-monitored architecture,Michele Williams,Mystery,1961,20.9,32,Ashley Perez,williamslindsey@yahoo.com,1234568315,Elizabethshire,United States Minor Outlying Islands,4,Repeat
+352,178,436,2023-03-19,7,111.3,Sharable heuristic conglomeration,Garrett Campbell,Mystery,1916,15.9,54,Justin Roberson,johnsonrebecca@gmail.com,1234568068,Lake Brittany,Barbados,2,Repeat
+353,14,360,2023-08-03,5,246.7,Profound tertiary encoding,Jennifer Jones,Non-Fiction,2020,49.34,73,John Wood,johnsonalexander@gmail.com,1234567904,Richardsonville,New Caledonia,2,Repeat
+354,388,225,2024-07-28,2,72.08,Synergized foreground website,Carrie Ware,Biography,1976,36.04,26,Joshua Bass,goodmanmary@lara-bowen.net,1234568278,Christinamouth,Bulgaria,2,Repeat
+355,437,443,2023-10-23,6,264.3,Down-sized radical orchestration,Crystal Hall,Non-Fiction,1987,44.05,89,Cynthia Cooper,russellpriscilla@gmail.com,1234568327,Wrightfurt,Philippines,4,Repeat
+356,384,102,2024-06-01,3,120.66,Ergonomic stable open architecture,Robin Brown,Romance,1955,40.22,31,Thomas Garcia,davidvelez@romero-marsh.com,1234568274,Michaelview,Sri Lanka,2,Repeat
+357,163,150,2023-07-06,9,287.55,Phased logistical open system,Jenna Henderson,Biography,1952,31.95,32,Robert Clark,sheilalester@gmail.com,1234568053,Lake Charleshaven,Macao,2,Repeat
+358,474,45,2023-01-30,8,203.92,Centralized cohesive website,Luis Rogers,Mystery,1984,25.49,59,Anthony Young,rogersbill@gmail.com,1234568364,East Chelsea,Cook Islands,5,Repeat
+359,301,378,2023-08-23,6,36.06,Future-proofed heuristic function,Samantha Mcclain,Romance,1903,6.01,0,Tommy Colon,hhuerta@craig-zimmerman.biz,1234568191,Parkerborough,Isle of Man,2,Repeat
+360,177,442,2024-01-23,2,96.96,Enhanced grid-enabled budgetary management,Betty Cross,Non-Fiction,1993,48.48,93,Sarah Powell,bryan44@yahoo.com,1234568067,Kaylatown,Guyana,2,Repeat
+361,415,448,2023-07-27,6,37.56,Digitized uniform Internet solution,Douglas Malone,Mystery,1929,6.26,70,James Ramirez,robert54@hall.com,1234568305,Maxwelltown,Canada,3,Repeat
+362,242,292,2024-07-29,3,80.82,Fully-configurable mission-critical artificial intelligence,Rachel Adkins,Mystery,2017,26.94,2,Mandy Riley,careykevin@yahoo.com,1234568132,West Kimberly,Puerto Rico,1,One-time
+363,153,91,2023-03-04,2,55.64,Integrated exuding application,Elizabeth Morrison,Romance,1923,27.82,81,George Wright,hillhannah@brown-carroll.info,1234568043,New Marie,Korea,2,Repeat
+364,357,38,2024-05-12,9,148.23,Pre-emptive asynchronous leverage,Courtney Nichols,Fantasy,2022,16.47,72,Scott Oconnell,matthew25@jones-brown.net,1234568247,Natashaville,China,2,Repeat
+365,301,200,2023-02-28,7,69.72,Right-sized modular synergy,Marie Smith,Science Fiction,1939,9.96,32,Tommy Colon,hhuerta@craig-zimmerman.biz,1234568191,Parkerborough,Isle of Man,2,Repeat
+366,425,231,2024-03-08,6,56.22,Polarized maximized challenge,Steven Davis,Non-Fiction,1986,9.37,84,Ashley Perez,williamslindsey@yahoo.com,1234568315,Elizabethshire,United States Minor Outlying Islands,4,Repeat
+367,497,309,2023-04-04,5,58.7,Mandatory homogeneous ability,George Sanchez,Fantasy,1939,11.74,77,Shane Klein,murphytheodore@rodriguez-lopez.biz,1234568387,West Billymouth,Cote d'Ivoire,2,Repeat
+368,17,488,2023-05-17,10,491.5,Optimized attitude-oriented synergy,Cory Ross,Non-Fiction,1985,49.15,64,Christine Maldonado,ztaylor@yahoo.com,1234567907,Smithborough,Chile,1,One-time
+369,339,156,2022-12-09,1,31.68,Synergistic grid-enabled website,Brandon Black,Fiction,1953,31.68,34,Lisa Hayes,david63@gmail.com,1234568229,New Beverly,Marshall Islands,2,Repeat
+370,462,295,2024-02-04,4,114.64,Persistent disintermediate artificial intelligence,Todd Davis,Non-Fiction,1977,28.66,65,James Brewer,ebrown@ewing-warner.com,1234568352,Chandlerberg,Mongolia,3,Repeat
+371,149,120,2024-03-23,4,192.12,Integrated secondary access,Sheena Harris,Non-Fiction,1984,48.03,93,Jason Robinson,masonzachary@gmail.com,1234568039,Victoriafurt,French Guiana,3,Repeat
+372,290,57,2023-01-21,3,70.77,Team-oriented 3rdgeneration encryption,Sabrina Hernandez DVM,Romance,1962,23.59,27,Sarah Cameron,egonzalez@bell.com,1234568180,West Blake,Guyana,3,Repeat
+373,428,47,2024-10-25,9,183.33,Reverse-engineered directional conglomeration,John Christian,Fiction,2006,20.37,90,Andrew Wells,jacklutz@hotmail.com,1234568318,Bookerbury,Guadeloupe,1,One-time
+374,418,64,2024-04-28,9,216.9,Polarized hybrid emulation,Christopher Washington,Science Fiction,1963,24.1,86,Kiara Blankenship MD,grahamvictor@sutton.com,1234568308,Brandimouth,Belarus,3,Repeat
+375,115,58,2023-07-19,3,103.62,Profound logistical capacity,Ray Walsh,Romance,1995,34.54,14,Jacob Fernandez,adamsmith@mckay-ward.com,1234568005,East Lisashire,Micronesia,2,Repeat
+376,360,320,2023-03-02,7,35.49,Ergonomic clear-thinking interface,Judith Gutierrez,Fantasy,1950,5.07,55,Roberto Martinez,victoriacrane@simmons.com,1234568250,Patriciaville,Mauritius,1,One-time
+377,194,208,2023-12-03,5,125.0,Synergized intangible methodology,Ellen Doyle,Fantasy,1917,25.0,83,Eric Jimenez,nelliott@yahoo.com,1234568084,West Robinport,Sweden,3,Repeat
+378,203,105,2024-09-25,1,30.02,Expanded explicit neural-net,Melissa Tucker,Romance,2005,30.02,4,William Walters,jenna96@hotmail.com,1234568093,South Heather,Austria,1,One-time
+379,313,135,2023-06-21,7,105.91,Customizable bi-directional focus group,Kristin Farley,Mystery,2001,15.13,83,David Nelson,laura23@hotmail.com,1234568203,Lake Jane,Macao,2,Repeat
+380,465,491,2024-09-18,3,44.61,Pre-emptive intangible adapter,Michael Hill,Fantasy,1910,14.87,2,Vanessa Kennedy,dustin35@davenport.org,1234568355,Ryanville,Afghanistan,1,One-time
+381,485,377,2023-07-22,8,318.32,Realigned 6thgeneration infrastructure,Jennifer Hughes,Mystery,2007,39.79,55,Andrew Figueroa,john28@gmail.com,1234568375,New Veronicaside,Macedonia,4,Repeat
+382,492,333,2024-08-14,1,27.76,Advanced responsive extranet,Mark Chavez DDS,Fantasy,1959,27.76,29,Tara Austin,millerandre@hayes.org,1234568382,Lake Hunterstad,Haiti,1,One-time
+383,145,8,2023-04-04,3,146.97,Persistent local encoding,Troy Cox,Science Fiction,2019,48.99,84,Jessica Mays,david49@donaldson.com,1234568035,North Aaronton,Morocco,2,Repeat
+384,304,369,2024-06-26,7,158.55,Diverse responsive focus group,Ashley Chavez,Biography,1966,22.65,100,Nancy Dennis,davidraymond@gmail.com,1234568194,Dominiqueview,Bhutan,2,Repeat
+385,379,110,2024-07-18,9,271.35,Re-contextualized radical matrix,Michael Howell,Fantasy,1903,30.15,2,Christie Sullivan,chrisrichardson@gmail.com,1234568269,Josephstad,Benin,2,Repeat
+386,226,52,2023-05-05,5,82.65,Triple-buffered neutral adapter,Kristi Phillips,Science Fiction,2003,16.53,85,Kevin Collins,smithclinton@goodman-jackson.com,1234568116,Thomaschester,San Marino,2,Repeat
+387,344,236,2024-07-20,4,43.12,Assimilated disintermediate ability,Christopher Anderson,Romance,1948,10.78,87,Shawn Allen Jr.,aramirez@arnold.com,1234568234,Port Bruce,Sri Lanka,1,One-time
+388,125,232,2023-08-04,6,57.72,Monitored 24/7 groupware,Vicki Mcgee,Science Fiction,1925,9.62,1,Rebecca Perez,udavis@patton.com,1234568015,Michelleview,Sri Lanka,2,Repeat
+389,485,391,2023-11-18,2,66.84,Face-to-face 6thgeneration attitude,Erica Olson,Romance,2009,33.42,35,Andrew Figueroa,john28@gmail.com,1234568375,New Veronicaside,Macedonia,4,Repeat
+390,94,73,2023-10-01,10,212.3,Realigned multi-tasking installation,Patrick Contreras,Mystery,1933,21.23,39,Mr. David Cox,millermichael@gmail.com,1234567984,West Anthony,New Zealand,3,Repeat
+391,30,330,2023-05-20,8,256.16,Assimilated user-facing approach,Roy Wolf,Biography,1990,32.02,25,Dylan Garcia,oanderson@yahoo.com,1234567920,Hallfort,Turkey,1,One-time
+392,336,212,2024-07-04,1,18.69,Diverse 4thgeneration knowledge user,Lindsey Lucas,Science Fiction,1950,18.69,35,Vincent Bender,lauraharvey@yahoo.com,1234568226,New Christine,Monaco,2,Repeat
+393,279,307,2022-12-24,8,115.44,Expanded local infrastructure,Valerie Moore,Mystery,1914,14.43,7,Susan Hughes,efuller@williams-johnson.biz,1234568169,New Julieville,Estonia,2,Repeat
+394,299,425,2024-04-14,1,24.23,Synergized analyzing solution,Tammy Cervantes,Non-Fiction,1990,24.23,45,Andrew Robinson,pittmanelizabeth@armstrong-shepard.com,1234568189,Jessicaport,Cayman Islands,1,One-time
+395,159,443,2024-05-27,9,396.45,Down-sized radical orchestration,Crystal Hall,Non-Fiction,1987,44.05,89,Jennifer White,epage@yahoo.com,1234568049,Port Rebecca,Pitcairn Islands,2,Repeat
+396,59,424,2023-04-09,6,243.0,Object-based secondary knowledgebase,Eric Shepherd,Mystery,1935,40.5,84,Andrew Collins,msanchez@king.net,1234567949,West Sheri,Guatemala,3,Repeat
+397,368,73,2023-01-19,6,127.38,Realigned multi-tasking installation,Patrick Contreras,Mystery,1933,21.23,39,Diane Clark,sydney29@nguyen-jones.biz,1234568258,North Michael,Samoa,2,Repeat
+398,273,334,2023-07-21,9,321.12,Synergistic fault-tolerant attitude,Robert Bullock,Mystery,1913,35.68,88,Jordan Warner,sawyerraven@gmail.com,1234568163,New Joehaven,Mexico,1,One-time
+399,318,393,2022-12-27,9,396.0,Triple-buffered multimedia access,Nathan Ashley,Fantasy,1987,44.0,44,Thomas Mendoza,rhuynh@sanchez.org,1234568208,Watsonfort,Andorra,1,One-time
+400,239,33,2024-04-05,10,350.6,Team-oriented empowering synergy,Sandra Williams,Non-Fiction,2023,35.06,49,Amanda Kramer,kelly09@lopez.biz,1234568129,Kellermouth,Egypt,2,Repeat
+401,154,475,2023-12-06,1,47.76,Stand-alone zero administration emulation,Michelle Lyons,Romance,1986,47.76,100,Kristin Montoya,petersonvictoria@hawkins.org,1234568044,Port Theresa,Guernsey,2,Repeat
+402,199,323,2022-12-25,8,286.64,Balanced dynamic project,Kelly Hopkins,Biography,1976,35.83,2,Anthony Simmons,brittanyellis@davis-scott.com,1234568089,East Sandra,Micronesia,2,Repeat
+403,98,398,2024-11-17,10,334.1,Programmable context-sensitive forecast,Evelyn Cox,Mystery,1998,33.41,50,Robert Blair,anicholson@gregory.com,1234567988,Josephfurt,United States Virgin Islands,3,Repeat
+404,457,191,2024-10-02,10,421.9,Multi-layered 24hour infrastructure,Casey Moreno,Romance,1911,42.19,8,Kim Turner,jennifer45@weiss-perry.com,1234568347,South Rachelview,Cambodia,4,Repeat
+405,405,149,2024-05-01,5,85.45,Expanded explicit solution,Tonya Robertson,Biography,1957,17.09,73,Julie Smith,knightmonica@krueger-hamilton.biz,1234568295,Freemanland,Vanuatu,4,Repeat
+406,438,78,2023-02-17,10,130.7,Synergized mobile architecture,Gregory Perez,Romance,1988,13.07,86,Ebony Ramos,rachel07@gmail.com,1234568328,North Stephenmouth,Tajikistan,2,Repeat
+407,121,156,2024-04-14,4,126.72,Synergistic grid-enabled website,Brandon Black,Fiction,1953,31.68,34,Ashley Hernandez,wfrey@sosa.info,1234568011,Jenniferfurt,Japan,2,Repeat
+408,485,299,2023-12-13,4,112.76,Centralized disintermediate array,Donald Wiggins,Fiction,1909,28.19,73,Andrew Figueroa,john28@gmail.com,1234568375,New Veronicaside,Macedonia,4,Repeat
+409,184,303,2024-09-07,6,39.42,Open-source background extranet,Meredith Miller,Romance,1968,6.57,77,Richard Mclaughlin,webbpatrick@hotmail.com,1234568074,Bestbury,Somalia,2,Repeat
+410,364,462,2024-12-01,5,246.15,Innovative 3rdgeneration database,Allison Contreras,Fantasy,1988,49.23,62,Carrie Perez,chelsea23@gillespie-walker.com,1234568254,Kennethland,Hungary,6,Repeat
+411,486,208,2023-10-29,8,200.0,Synergized intangible methodology,Ellen Doyle,Fantasy,1917,25.0,83,Melanie Kelly,eric02@johnson.com,1234568376,East Karenmouth,Ukraine,2,Repeat
+412,24,103,2024-06-16,5,216.25,Upgradable foreground open system,Kathryn Lopez,Science Fiction,1907,43.25,11,Christina Mitchell,justin67@yahoo.com,1234567914,Bridgestown,Trinidad and Tobago,2,Repeat
+413,158,314,2023-07-12,3,28.77,Decentralized discrete archive,Jordan Holt,Romance,1914,9.59,74,Michael Garcia,brian45@miller.com,1234568048,Emilymouth,Russian Federation,2,Repeat
+414,23,234,2023-11-10,1,7.15,Total reciprocal monitoring,Reginald Chavez,Science Fiction,2006,7.15,9,Hannah Drake,sandersallen@hotmail.com,1234567913,Deannabury,Faroe Islands,2,Repeat
+415,336,10,2023-07-07,1,24.63,Ergonomic national hub,Samantha Ruiz,Mystery,2015,24.63,25,Vincent Bender,lauraharvey@yahoo.com,1234568226,New Christine,Monaco,2,Repeat
+416,149,211,2023-12-29,1,16.19,Centralized asymmetric data-warehouse,Dana Ibarra,Biography,1944,16.19,44,Jason Robinson,masonzachary@gmail.com,1234568039,Victoriafurt,French Guiana,3,Repeat
+417,222,254,2024-03-29,4,170.28,Team-oriented bandwidth-monitored project,Jacqueline Ramsey,Mystery,1916,42.57,100,Madison Stevens,staylor@copeland.info,1234568112,Baldwinfurt,Jersey,1,One-time
+418,153,372,2023-12-04,2,35.46,Realigned mobile focus group,Michael Jackson,Fiction,1905,17.73,42,George Wright,hillhannah@brown-carroll.info,1234568043,New Marie,Korea,2,Repeat
+419,330,313,2023-05-15,3,141.48,Profound client-driven paradigm,Nicole Olson,Non-Fiction,1997,47.16,53,Deborah Mcgee,haroldburns@dougherty.com,1234568220,New Angelafurt,French Polynesia,1,One-time
+420,102,415,2024-10-03,1,29.51,Enhanced next generation standardization,Anthony Nguyen,Fantasy,1976,29.51,18,Christopher Williams,ufigueroa@hotmail.com,1234567992,Cherylport,Macedonia,2,Repeat
+421,56,183,2023-04-01,5,77.0,Total exuding project,Richard Curtis,Mystery,2001,15.4,6,Dr. Susan Nichols,hernandezchelsea@thompson.com,1234567946,East Lisaberg,Netherlands Antilles,1,One-time
+422,322,176,2023-12-25,8,128.88,Fundamental system-worthy parallelism,Cameron Garcia,Fantasy,1924,16.11,52,William Cameron,lharrell@mcintyre.com,1234568212,Sanchezport,Mexico,3,Repeat
+423,11,349,2024-01-10,5,221.8,Monitored interactive focus group,Thomas Chung,Non-Fiction,2013,44.36,51,Thomas Garcia,rmiller@gmail.com,1234567901,West Monicabury,Argentina,1,One-time
+424,291,118,2024-01-16,7,38.64,Profound didactic leverage,Andrew Murphy,Fantasy,2017,5.52,22,Jennifer Crosby,fmiller@yahoo.com,1234568181,Alanton,Russian Federation,2,Repeat
+425,98,308,2023-02-14,6,124.5,Expanded maximized collaboration,Amanda Moore,Romance,2009,20.75,35,Robert Blair,anicholson@gregory.com,1234567988,Josephfurt,United States Virgin Islands,3,Repeat
+426,98,33,2024-02-18,5,175.3,Team-oriented empowering synergy,Sandra Williams,Non-Fiction,2023,35.06,49,Robert Blair,anicholson@gregory.com,1234567988,Josephfurt,United States Virgin Islands,3,Repeat
+427,287,434,2023-09-11,7,319.06,Monitored value-added focus group,Mary Pollard,Science Fiction,1942,45.58,4,Kayla Novak,normanlane@gmail.com,1234568177,New Monicastad,Comoros,2,Repeat
+428,214,175,2023-02-16,10,328.5,Networked disintermediate projection,John Bradley,Biography,1910,32.85,39,Alexander Scott,amypierce@hotmail.com,1234568104,Matthewfurt,El Salvador,3,Repeat
+429,449,146,2023-11-01,7,101.5,Stand-alone hybrid framework,Ethan Kennedy,Non-Fiction,1903,14.5,91,Linda Reid,hartwendy@sanchez.info,1234568339,Frenchburgh,New Zealand,3,Repeat
+430,206,26,2024-07-26,2,42.1,Multi-channeled multi-tasking capability,Patricia Buck,Science Fiction,1964,21.05,41,Diana Davis,tmckay@hotmail.com,1234568096,Christophertown,Antigua and Barbuda,1,One-time
+431,68,276,2024-09-22,1,19.85,Profound radical access,Ryan Clark,Romance,1911,19.85,32,Kimberly Smith,imiller@gmail.com,1234567958,East Raymond,Indonesia,1,One-time
+432,420,168,2023-11-04,3,42.39,Vision-oriented radical capability,Tracy Parker,Mystery,2018,14.13,61,Andrew Murray,donaldjohnson@yahoo.com,1234568310,North Joseph,Western Sahara,3,Repeat
+433,37,223,2023-03-01,6,39.12,Virtual holistic Internet solution,Lauren Merritt,Mystery,1944,6.52,95,Ryan Lara,benjamin38@thompson-adams.net,1234567927,Port Jameschester,Chad,2,Repeat
+434,45,83,2023-10-20,10,89.4,Sharable regional product,Michael Walker,Biography,2022,8.94,92,Jennifer Fowler,whitemargaret@blackwell.info,1234567935,Carlsonfort,Ireland,1,One-time
+435,13,230,2023-04-14,8,48.8,Optional cohesive methodology,Jerome Lee,Science Fiction,1977,6.1,59,Kristine Kim,sarahwilliams@hotmail.com,1234567903,Lake Robert,Nigeria,2,Repeat
+436,224,412,2024-06-17,1,9.83,Profound zero-defect process improvement,Lisa Alexander,Biography,1921,9.83,5,Julie Stewart,uthompson@hotmail.com,1234568114,Smithmouth,British Indian Ocean Territory (Chagos Archipelago),2,Repeat
+437,183,360,2023-10-31,6,296.04,Profound tertiary encoding,Jennifer Jones,Non-Fiction,2020,49.34,73,Jeffrey Howard,ramirezcaroline@weeks.info,1234568073,New Kylefurt,Saint Martin,2,Repeat
+438,304,434,2024-08-16,2,91.16,Monitored value-added focus group,Mary Pollard,Science Fiction,1942,45.58,4,Nancy Dennis,davidraymond@gmail.com,1234568194,Dominiqueview,Bhutan,2,Repeat
+439,346,419,2023-05-20,3,27.84,Enterprise-wide multimedia initiative,Theresa Rice,Non-Fiction,1981,9.28,25,Julie Mcintyre,dmcintyre@luna.com,1234568236,West Dakotaport,Heard Island and McDonald Islands,2,Repeat
+440,195,343,2023-08-31,9,387.27,De-engineered grid-enabled secured line,Marissa Smith,Mystery,2006,43.03,86,Dominique Turner,tracy39@smith-miller.com,1234568085,Rogersborough,Djibouti,3,Repeat
+441,269,168,2024-03-18,8,113.04,Vision-oriented radical capability,Tracy Parker,Mystery,2018,14.13,61,John Scott,ysandoval@mcgrath.com,1234568159,Port Paulshire,New Zealand,1,One-time
+442,57,129,2023-05-20,8,325.92,Decentralized multi-tasking data-warehouse,Dr. Kelly Armstrong,Romance,1959,40.74,29,Nicolas Joseph,debra75@gmail.com,1234567947,Lindaburgh,Congo,2,Repeat
+443,425,108,2024-04-30,10,253.8,Future-proofed fault-tolerant encoding,Larry Andrews,Science Fiction,1918,25.38,28,Ashley Perez,williamslindsey@yahoo.com,1234568315,Elizabethshire,United States Minor Outlying Islands,4,Repeat
+444,155,5,2022-12-12,7,76.65,Adaptive 5thgeneration encoding,Juan Miller,Fantasy,1956,10.95,16,James Stuart,staceycohen@chen.com,1234568045,South Mariaside,Turks and Caicos Islands,2,Repeat
+445,21,384,2024-04-16,8,271.36,Multi-channeled needs-based intranet,Molly Roberts,Romance,1911,33.92,46,Edgar Frost,maria51@gmail.com,1234567911,Jonathanhaven,Saudi Arabia,2,Repeat
+446,485,380,2023-09-18,3,39.51,Universal fault-tolerant array,Michael Johnson,Science Fiction,1984,13.17,78,Andrew Figueroa,john28@gmail.com,1234568375,New Veronicaside,Macedonia,4,Repeat
+447,379,422,2023-08-05,1,45.91,Grass-roots systematic moderator,Joyce Patton,Fantasy,1919,45.91,39,Christie Sullivan,chrisrichardson@gmail.com,1234568269,Josephstad,Benin,2,Repeat
+448,115,38,2024-11-21,1,16.47,Pre-emptive asynchronous leverage,Courtney Nichols,Fantasy,2022,16.47,72,Jacob Fernandez,adamsmith@mckay-ward.com,1234568005,East Lisashire,Micronesia,2,Repeat
+449,490,222,2023-11-18,1,29.59,Virtual fault-tolerant model,Scott Wells,Science Fiction,1928,29.59,75,Brittany Young,christopher21@young.com,1234568380,Thomasbury,Saint Kitts and Nevis,1,One-time
+450,451,288,2023-05-18,8,223.28,Re-contextualized real-time Graphic Interface,Erica Parker,Science Fiction,1908,27.91,9,Travis Harper,vbryant@hotmail.com,1234568341,West Brendachester,Pitcairn Islands,1,One-time
+451,87,307,2023-08-04,10,144.3,Expanded local infrastructure,Valerie Moore,Mystery,1914,14.43,7,Nathan Robbins,jenniferrodgers@garrison-baker.com,1234567977,East Tylertown,Bolivia,1,One-time
+452,100,412,2024-07-13,1,9.83,Profound zero-defect process improvement,Lisa Alexander,Biography,1921,9.83,5,Karla Guerrero,wsimpson@yahoo.com,1234567990,Dustinview,Argentina,1,One-time
+453,22,418,2023-04-19,8,255.04,Proactive client-driven knowledgebase,Jeremy Ware,Fantasy,1927,31.88,83,Stacey Adams,fjohnson@gmail.com,1234567912,Clintonmouth,Iceland,3,Repeat
+454,386,186,2024-06-14,8,330.64,Sharable executive conglomeration,Pam Price,Mystery,1938,41.33,4,Pamela Gordon,mandy28@thomas-white.com,1234568276,East Richardburgh,Yemen,3,Repeat
+455,84,409,2023-10-31,2,43.12,Innovative directional project,Jerry Burch,Mystery,1941,21.56,49,Gary Blair,leonardtaylor@bowers.net,1234567974,Lake Paul,Armenia,2,Repeat
+456,331,125,2024-02-19,5,162.05,Public-key analyzing Graphic Interface,Abigail Madden,Fiction,1990,32.41,16,Megan Martin,fosterjames@anderson.biz,1234568221,Port Christianberg,Peru,2,Repeat
+457,387,147,2024-03-17,10,452.0,Innovative empowering concept,Brad Vasquez,Science Fiction,1964,45.2,74,Tanya Morales,michellecraig@gmail.com,1234568277,Buckbury,Puerto Rico,2,Repeat
+458,160,127,2023-02-19,6,69.96,Business-focused real-time benchmark,David Nelson,Science Fiction,1997,11.66,0,Robert Brooks,johnnygriffith@gmail.com,1234568050,Lake Sarahside,Finland,2,Repeat
+459,163,422,2024-08-17,10,459.1,Grass-roots systematic moderator,Joyce Patton,Fantasy,1919,45.91,39,Robert Clark,sheilalester@gmail.com,1234568053,Lake Charleshaven,Macao,2,Repeat
+460,445,237,2023-05-24,2,80.86,Down-sized holistic hardware,Paul Williams,Mystery,1905,40.43,42,Alexis Frye,antoniowilkerson@hotmail.com,1234568335,Jenniferberg,Gibraltar,1,One-time
+461,317,196,2023-11-18,9,60.21,Phased context-sensitive task-force,Rachel Gibbs,Science Fiction,1934,6.69,24,Janice Henson,kellymorgan@collins.com,1234568207,East Loriborough,Wallis and Futuna,1,One-time
+462,22,282,2024-11-24,3,114.57,Configurable local emulation,Russell Castillo,Biography,2016,38.19,3,Stacey Adams,fjohnson@gmail.com,1234567912,Clintonmouth,Iceland,3,Repeat
+463,174,279,2024-07-06,5,152.5,Upgradable radical adapter,Elizabeth Wilson,Non-Fiction,2008,30.5,28,Jonathon Strickland,ryan10@yahoo.com,1234568064,Bakerton,Dominica,4,Repeat
+464,392,463,2022-12-20,1,11.99,Re-engineered disintermediate definition,Cheryl Anderson,Fantasy,1911,11.99,36,Dustin Ramirez,steven64@hotmail.com,1234568282,Ryanhaven,Spain,1,One-time
+465,337,414,2023-01-16,7,157.85,Organized directional Internet solution,Amanda Carrillo,Fiction,1999,22.55,93,Katherine Gonzalez,nortonpatrick@martinez.com,1234568227,Munozfort,Tokelau,1,One-time
+466,498,273,2024-12-07,7,87.01,Devolved zero administration process improvement,Emily James,Romance,1929,12.43,23,Brianna Fischer,jessicacoleman@yahoo.com,1234568388,Angelatown,Gibraltar,1,One-time
+467,390,273,2023-07-22,10,124.3,Devolved zero administration process improvement,Emily James,Romance,1929,12.43,23,Adam Anthony,melissaellis@yahoo.com,1234568280,Christinaport,Vanuatu,1,One-time
+468,162,237,2023-11-22,6,242.58,Down-sized holistic hardware,Paul Williams,Mystery,1905,40.43,42,Taylor Browning,oschmidt@hotmail.com,1234568052,Petertown,Spain,2,Repeat
+469,158,97,2024-01-01,6,274.44,Open-architected stable solution,Chad Nichols,Science Fiction,2017,45.74,70,Michael Garcia,brian45@miller.com,1234568048,Emilymouth,Russian Federation,2,Repeat
+470,349,232,2024-10-30,8,76.96,Monitored 24/7 groupware,Vicki Mcgee,Science Fiction,1925,9.62,1,Alexis Castro,harveyralph@wilson.info,1234568239,Lake Jared,Jersey,1,One-time
+471,79,7,2022-12-13,5,218.15,Open-architected exuding structure,Jacqueline Young,Romance,1927,43.63,95,Daniel Brown,walkerrichard@young-grimes.com,1234567969,Villarrealland,Pakistan,1,One-time
+472,145,136,2023-08-07,6,59.34,Stand-alone intangible installation,Morgan Mata,Romance,2012,9.89,84,Jessica Mays,david49@donaldson.com,1234568035,North Aaronton,Morocco,2,Repeat
+473,353,75,2024-06-19,1,47.11,Multi-layered fresh-thinking solution,James Buckley,Science Fiction,1912,47.11,3,Michael Reese,vargasdylan@stark-hicks.biz,1234568243,Jaclynfurt,Saint Martin,3,Repeat
+474,194,138,2023-03-24,9,222.93,Profound zero-defect knowledgebase,Carolyn Garcia,Fantasy,1978,24.77,8,Eric Jimenez,nelliott@yahoo.com,1234568084,West Robinport,Sweden,3,Repeat
+475,284,161,2023-03-02,7,151.2,Focused high-level strategy,Stephanie Sloan,Fantasy,1963,21.6,11,Annette Garcia,donald50@yahoo.com,1234568174,Melissaside,San Marino,2,Repeat
+476,387,379,2023-04-02,5,28.5,Digitized zero-defect access,Angela Stewart,Non-Fiction,1916,5.7,95,Tanya Morales,michellecraig@gmail.com,1234568277,Buckbury,Puerto Rico,2,Repeat
+477,162,454,2023-05-30,7,66.92,Stand-alone methodical implementation,Kim Wilson,Biography,1940,9.56,94,Taylor Browning,oschmidt@hotmail.com,1234568052,Petertown,Spain,2,Repeat
+478,423,350,2024-08-02,4,126.68,Exclusive 24hour groupware,Brian Baker,Romance,2008,31.67,49,Dale Johnson,wmedina@hotmail.com,1234568313,New Keithville,Anguilla,2,Repeat
+479,328,197,2023-12-26,7,301.21,Organized content-based core,Brandon Martin,Mystery,1980,43.03,9,Russell Thompson,moorewilliam@hughes.biz,1234568218,Hallshire,Holy See (Vatican City State),3,Repeat
+480,415,146,2023-06-21,7,101.5,Stand-alone hybrid framework,Ethan Kennedy,Non-Fiction,1903,14.5,91,James Ramirez,robert54@hall.com,1234568305,Maxwelltown,Canada,3,Repeat
+481,405,353,2023-07-07,10,469.7,Public-key intangible frame,Katherine Fry,Romance,1984,46.97,41,Julie Smith,knightmonica@krueger-hamilton.biz,1234568295,Freemanland,Vanuatu,4,Repeat
+482,2,429,2024-08-31,7,298.06,Cross-platform 24hour artificial intelligence,Dawn Coleman,Romance,2002,42.58,95,Crystal Clements,kimberlybennett@curtis.com,1234567892,East Derekberg,Nicaragua,2,Repeat
+483,459,202,2023-11-23,10,122.6,Balanced optimal open architecture,Lindsey Johnson,Mystery,1964,12.26,32,Veronica Lee,joseph12@villegas-french.biz,1234568349,East Jessicafurt,Heard Island and McDonald Islands,1,One-time
+484,500,274,2023-08-31,6,292.8,Automated systemic functionalities,Matthew Thomas,Fiction,1903,48.8,72,James York,maydavid@maldonado.org,1234568390,Port Angela,Moldova,2,Repeat
+485,140,230,2023-02-04,5,30.5,Optional cohesive methodology,Jerome Lee,Science Fiction,1977,6.1,59,Brett Henderson,zturner@matthews-clark.com,1234568030,Leeview,Liberia,2,Repeat
+486,322,110,2023-04-26,2,60.3,Re-contextualized radical matrix,Michael Howell,Fantasy,1903,30.15,2,William Cameron,lharrell@mcintyre.com,1234568212,Sanchezport,Mexico,3,Repeat
+487,102,245,2023-12-23,7,112.42,Automated client-driven open architecture,Jose Brown,Non-Fiction,2000,16.06,18,Christopher Williams,ufigueroa@hotmail.com,1234567992,Cherylport,Macedonia,2,Repeat
+488,47,18,2023-05-23,4,157.88,Adaptive 4thgeneration concept,Hector Palmer,Non-Fiction,2021,39.47,32,Debra Park,dawnmyers@munoz-ayala.com,1234567937,Phillipsmouth,Isle of Man,3,Repeat
+489,211,471,2023-02-22,5,226.9,Cross-platform next generation website,Anna Roberts,Romance,1929,45.38,37,Ronald Jordan,nhernandez@farmer.org,1234568101,Leonardport,Fiji,1,One-time
+490,173,93,2023-02-15,9,156.87,Object-based multimedia algorithm,Frank Aguilar,Non-Fiction,2009,17.43,37,Victoria Dixon,caseytina@yahoo.com,1234568063,Annhaven,French Polynesia,2,Repeat
+491,425,72,2023-10-14,10,465.4,Networked contextually-based throughput,Andrea Eaton,Fantasy,1959,46.54,65,Ashley Perez,williamslindsey@yahoo.com,1234568315,Elizabethshire,United States Minor Outlying Islands,4,Repeat
+492,284,120,2024-04-28,10,480.3,Integrated secondary access,Sheena Harris,Non-Fiction,1984,48.03,93,Annette Garcia,donald50@yahoo.com,1234568174,Melissaside,San Marino,2,Repeat
+493,475,19,2024-11-04,1,11.31,Progressive asymmetric Internet solution,Sean Miller,Science Fiction,1990,11.31,1,Joseph Boyd,dawnmartin@hotmail.com,1234568365,Derekview,Mauritania,1,One-time
+494,117,127,2024-11-23,2,23.32,Business-focused real-time benchmark,David Nelson,Science Fiction,1997,11.66,0,Molly Murphy,jamesswanson@williams-smith.info,1234568007,Sawyerchester,Korea,2,Repeat
+495,216,497,2023-03-31,3,72.3,Function-based local installation,Craig Thompson,Science Fiction,1919,24.1,33,Phillip Allen,brianwatkins@gmail.com,1234568106,Kelseyfort,Micronesia,2,Repeat
+496,53,233,2024-09-28,6,62.34,Team-oriented client-driven adapter,Adrian Avery,Mystery,2011,10.39,47,Sandra Coleman,emerritt@yahoo.com,1234567943,Lake Karenmouth,Netherlands Antilles,1,One-time
+497,328,272,2023-04-25,10,51.6,Intuitive 4thgeneration intranet,Daniel Gillespie,Mystery,1959,5.16,79,Russell Thompson,moorewilliam@hughes.biz,1234568218,Hallshire,Holy See (Vatican City State),3,Repeat
+498,152,406,2024-03-10,2,71.58,De-engineered methodical capacity,James Gonzalez,Fiction,2006,35.79,50,Rebecca Buckley,fross@hotmail.com,1234568042,East Marymouth,Malawi,1,One-time
+499,140,48,2023-08-26,1,24.7,Multi-channeled 5thgeneration Internet solution,Jennifer Powell,Biography,1963,24.7,94,Brett Henderson,zturner@matthews-clark.com,1234568030,Leeview,Liberia,2,Repeat
+500,297,137,2024-06-17,5,131.65,Networked contextually-based encryption,Leslie Montoya,Biography,1942,26.33,1,Ryan Mendoza,woodjohn@duncan.com,1234568187,West Kim,Argentina,1,One-time
