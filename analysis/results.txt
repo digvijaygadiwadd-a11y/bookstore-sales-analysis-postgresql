@@ -1,0 +1,18 @@
+1. Order value: repeat vs one-time customers (Welch t-test)
+   mean repeat = 152.98 (n=332), one-time = 147.86 (n=168)
+   t = 0.45, p = 0.651, Cohen's d = 0.04
+   -> no significant difference: repeat buyers' revenue comes from ORDER FREQUENCY, not bigger baskets
+
+2. Repeat customers' share of revenue, bootstrap 95% CI (2,000 resamples)
+   point estimate = 67.2%, 95% CI = [60.9%, 73.3%]
+
+3. Price vs quantity per order (Spearman rank correlation)
+   rho = 0.058, p = 0.196 -> no detectable price effect on quantity
+
+4. Order value across genres (one-way ANOVA)
+   F = 0.61, p = 0.719 -> no significant difference in order value between genres
+
+5. Proposed A/B test: loyalty offer to one-time buyers (design only, not run)
+   baseline repeat-purchase rate = 45.3%; to detect +5% absolute lift at alpha=0.05, power=80%
+   required sample = 1566 customers per arm (3132 total)
+   current buyers = 307, so this store is too small to test quickly; a pooled or longer test would be needed
